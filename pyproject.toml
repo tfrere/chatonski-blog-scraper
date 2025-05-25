@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "chatonski-txt-scrapper"
+version = "0.1.0"
+description = "Un scrapper pour les articles de chatonsky.net"
+authors = ["Thibaud Frere"]
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.9"
+feedparser = "^6.0.11"
+beautifulsoup4 = "^4.13.4"
+requests = "^2.32.3"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api" 

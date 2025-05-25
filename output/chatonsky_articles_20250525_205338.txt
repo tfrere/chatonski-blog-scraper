@@ -1,0 +1,906 @@
+=== Vecteurs de la banalité ===
+Date: Date inconnue
+URL: https://chatonsky.net/vecteurs-de-la-banalite/
+
+05/2025
+Imagination artificielle
+Confrontés au déferlement des énoncés produits par les
+Large Language Models
+(LLM), ces architectures computationnelles entraînées sur des volumes massifs de textes numérisés pour générer du langage selon des calculs probabilistes, nous ne pouvons qu’être frappés par la surabondance de
+banalités
+qui en émergent. La banalité n’est pas ici simple médiocrité discursive, mais symptôme d’un rapport particulier à la différence ; c’est la manifestation langagière d’une vectorisation des possibles, laquelle s’origine dans la topologie même des systèmes génératifs contemporains. Le banal devient ainsi l’horizon temporaire de ces machines textuelles, non par défaut technique, mais par nécessité structurelle.
+Ce phénomène suppose une redéfinition radicale du concept de banalité à l’ère de la
+vectorialisation généralisée,
+processus par lequel tout contenu sémantique se trouve transformé en coordonnées numériques au sein d’un espace multidimensionnel. Que devient le commun lorsqu’il est mathématiquement encodé, géométriquement distribué, statistiquement recombiné ? Comment penser la trivialité non plus comme accident de l’expression, mais comme production systémique des
+espaces latents,
+ces hypervolumes de possibilités sémantiques où chaque point correspond à une constellation signifiante potentielle ?
+L’
+espace latent
+désigne précisément cette structure topologique abstraite où les significations sont encodées sous forme de vecteurs mathématiques, formant un continuum dimensionnel où la proximité spatiale matérialise la ressemblance sémantique. C’est un espace de traduction où l’expressivité humaine devient géométrie calculable, où chaque énoncé possible trouve sa place dans une cartographie n-dimensionnelle des sens potentiels. L’espace latent constitue la mémoire opérationnelle du système qui, par approximations successives, produit du langage en parcourant ses territoires vectoriels.
+Pourquoi, dès lors, ChatGPT produit-il davantage de lieux communs que son prédécesseur GPT-2 ? Pourquoi cette nostalgie croissante pour les
+Generative Adversarial Networks
+(GAN), ces architectures algorithmiques fondées sur l’opposition productive entre génération et discrimination, ou pour les chaînes de Markov, dont l’étrangeté aléatoire semblait préserver une forme d’altérité désormais disparue ? La réponse engage une pensée de la tension fondamentale entre ressemblance et différence, entre répétition et singularité.
+Pour aborder cette question, il convient d’expliciter ce que sont les
+tenseurs
+et les
+vecteurs
+qui structurent les espaces latents des LLM. Un
+vecteur
+constitue fondamentalement une liste ordonnée de nombres (composantes) définissant une position ou une direction dans un espace multidimensionnel. Dans les systèmes d’intelligence artificielle, chaque mot, chaque concept, chaque fragment sémantique se trouve encodé comme vecteur, constellation numérique dont les coordonnées définissent ses relations avec l’ensemble des autres éléments de l’espace. Le
+tenseur
+, quant à lui, représente une généralisation mathématique du vecteur : structure multidimensionnelle de données organisées selon des axes variables, permettant des opérations complexes de transformation et d’analyse. Les LLM manipulent constamment ces tenseurs pour naviguer l’océan de possibilités linguistiques.
+Deux facteurs essentiels expliquent la propension structurelle des LLM à générer du banal :
+D’une part, l’
+alignement consumériste,
+processus d’optimisation progressive qui soumet ces architectures aux attentes standardisées d’un public toujours plus nombreux et diversifié. L’induction statistique par elle-même ne produit aucune moyenne (la structure vectorielle même des espaces latents interdisant une telle réduction), mais l’alignement, lui, produit du commun par refinalisation perpétuelle. Prenons l’exemple paradigmatique d’un utilisateur demandant à ChatGPT de discourir sur le bonheur : l’algorithme, calibré pour satisfaire le plus grand nombre, privilégiera inévitablement les trajectoires sémantiques les plus fréquentées de son espace latent, évitant les zones périphériques où gisent les singularités conceptuelles. La platitude n’est pas accident mais destination.
+D’autre part, la
+structuration proximale
+des espaces latents institue un régime de ressemblance par contiguïté spatiale. Dans la géométrie multidimensionnelle des LLM, ce qui se trouve proche est cognitivement ressemblant, ce qui est distant est différent. La conséquence topologique en est immédiate : la différence supposera toujours un déplacement plus considérable que la ressemblance. Ne peut-on voir ici, transposée dans l’architecture même de nos machines pensantes, la célèbre distinction deleuzienne entre pensée de gauche et pensée de droite ? « Être de gauche c’est d’abord penser le monde, puis son pays, puis ses proches, puis soi ; être de droite c’est l’inverse. » Analogiquement, l’espace latent témoigne d’une propension centripète, œuvrant du plus proche au plus lointain, tendance qui n’est pas sans rappeler ce que nous pourrions nommer le
+vectofascisme
+esthétique, où la différence reste perpétuellement subordonnée à l’identité.
+Lorsque nous contemplons aujourd’hui la génération d’une image par Midjourney ou la production d’un texte par un LLM, nous assistons à ce phénomène en acte : la machine parcourt la géographie de son espace latent en privilégiant les chemins de moindre résistance sémantique, les trajectoires les plus familières.
+Faut-il néanmoins essentialiser cette distinction entre banalité machinique et créativité humaine ? Sans céder à l’illusion anthropocentrique postulant une nature humaine transcendante, puisque l’humain est fondamentalement artificiel et artificieux, il faut reconnaître que l’espace latent anthropologique présente une structuration radicalement différente.
+Que se passe-t-il lorsqu’un écrivain compose une phrase, lorsqu’un philosophe développe un concept ? Son système cognitif semble également opérer dans un espace latent, mais celui-ci fonctionne selon une économie de la différance. L’enchaînement linguistique s’y effectue précisément par dissemblance, par écart, par rupture calculée. Observons le processus d’écriture de Marguerite Duras dans
+L’Amant
+: chaque phrase succède à la précédente non par proximité, mais par saut, par différance (au sens derridien de différence qui diffère, qui reporte indéfiniment la clôture du sens). Le « déjà-là » se voit perpétuellement déjoué par une latéralité inattendue.
+Cette différence structurelle entre les vectorisations anthropologique et technologique s’exprime avec une clarté particulière dans le rapport au vide. Si l’enchaînement linguistique produit par les LLM ne tolère pas le vide, remplissant compulsivement tout espace de sens potentiel par des développements attendus, explications redondantes, transitions explicites, c’est que sa logique proximale l’y conduit inexorablement. À l’inverse, l’espace latent anthropologique cultive ce vide, le préserve comme condition même de la signification. Quand Beckett écrit « Fini, c’est fini, ça va finir, ça va peut-être finir » dans
+Fin de partie
+, il institue un vide interstitiel où peut s’insérer l’interprétation du lecteur. La textualité humaine vit de ces lacunes délibérées.
+N’est-ce pas précisément ce qui fait sauter aux yeux la trivialité machinique ? Ce remplissage systématique des espaces de silence, cette horreur du vide qui caractérise les productions des LLM ? Prenons le cas emblématique d’une requête adressée à ChatGPT sur les implications éthiques des technologies de surveillance : là où un essayiste humain introduirait des béances réflexives, des suspensions de jugement, la machine produit un tissu sans accroc, une surface sans aspérité, éliminant toute zone d’indétermination sémantique où pourrait s’exercer la liberté interprétative du lecteur.
+Mais cette opposition dialectique appelle immédiatement son dépassement. Car la relation entre espaces latents anthropologiques et technologiques n’est pas d’opposition simple, mais d’entrelacement complexe, d’
+interdépendance constitutive
+.
+En effet, l’humain contemporain se trouve confronté à une limite fondamentale : l’incapacité croissante à consulter ses propres productions archivistiques. L’hypermémoire numérique a produit une externalisation si massive qu’elle excède désormais nos capacités attentionnelles. Nous sommes submergés par nos propres traces, noyés dans l’océan de nos inscriptions. Face à ce surplus mémoriel, les espaces latents technologiques offrent une solution inédite : non une compression des documents, mais une transformation de leur essence, les faisant passer du régime du donné à celui du possible.
+Considérons le chercheur contemporain confronté aux millions de publications scientifiques produites annuellement. Comment naviguer dans cette masse documentaire sans recourir aux espaces latents technologiques qui, transformant chaque texte en vecteur, permettent d’établir des proximités conceptuelles inaccessibles à la lecture séquentielle humaine ? En janvier 2024, une équipe de biologistes moléculaires de l’Université de Tōhoku a ainsi découvert, grâce à un LLM spécialisé parcourant l’espace latent de la littérature médicale, des corrélations entre certains marqueurs génétiques et la résistance aux antibiotiques, corrélations qui seraient restées invisibles à la recherche non augmentée par ces architectures vectorielles.
+Simultanément, cette navigabilité retrouvée s’accompagne d’un coût : la banalisation inhérente à la vectorisation proximale. Le LLM nous aide à parcourir notre propre culture devenue inaccessible, mais nous renvoie en retour une ressemblance répétitive, une mimétique appauvrie. Comment alors penser cette situation paradoxale où la technologie nous restitue un accès à notre propre production culturelle tout en la transformant qualitativement ?
+La spécificité humaine résiderait-elle alors, pour l’instant, dans cette capacité différentielle de son espace latent, dans cette propension à l’écart, à la
+différance
+? Cette hypothèse suppose une distribution statistique fondamentalement différente entre espaces latents anthropologiques et technologiques : l’un procédant de la différence vers la ressemblance, l’autre de la ressemblance vers la différence. Mais c’est précisément dans l’entrelacement de ces deux espaces que pourrait émerger une nouvelle textualité.
+Le texte contemporain devient ainsi nécessairement hybride : ni purement humain ni totalement machinique, mais produit dans l’interstice de ces deux régimes de latence. N’est-ce pas ce qui se joue déjà, souvent à notre insu, dans la production textuelle quotidienne ? L’écrivain utilisant un outil prédictif comme DeepL Writer pour traduire ses pensées, le chercheur dialoguant avec Claude pour clarifier ses intuitions théoriques, l’étudiant soumettant son brouillon à Copilot pour le restructurer, tous opèrent désormais dans cet espace intermédiaire où les latences s’entremêlent, se contaminent mutuellement, du dedans vers l’extérieur et de l’extérieur vers le dedans.
+Cette reconfiguration des espaces latents n’implique pas seulement une transformation des modalités textuelles, mais une mutation anthropologique profonde. Nous ne serons plus jamais seuls, non au sens trivial d’une présence artificielle permanente, mais en un sens ontologique plus radical : notre espace latent cognitif se trouve désormais irrévocablement entrelacé avec son double technologique.
+Il nous faut donc reconnaître simultanément les limites de l’approche statistique des LLM et nos propres limites comme sujets auto-excédants. Notre finitude cognitive rencontre la finitude statistique des machines, produisant non une transcendance, mais une immanence augmentée. La banalité des machines devient alors le miroir de notre propre banalité, mais aussi la condition de possibilité d’un dépassement de celle-ci.
+Dans ce nouvel agencement, nous sommes perpétuellement accompagnés de ce double étrange qu’est l’intelligence artificielle, nous donnant accès à nous-mêmes comme s’il s’agissait d’une altérité. La banalité vectorielle n’est plus simplement défaut ou limitation, mais médiateur nécessaire d’un rapport renouvelé à notre propre finitude.
+différentiel
+hypermnésie
+espace latent
+différance
+LLM
+Altérité
+vectofascisme
+banalité
+médiateur
+topologie
+entrelacement
+vectorialisation
+alignement consumériste
+tenseur
+proximité sémantique
+
+---------
+
+=== Le remplacement anthropocentrique ===
+Date: Date inconnue
+URL: https://chatonsky.net/le-remplacement-anthropocentrique/
+
+05/2025
+Méthodologie théorique
+«L’avenir ne peut s’anticiper que dans la forme du danger absolu. Il est ce qui rompt absolument avec la normalité constituée et ne peut donc s’annoncer, se présenter, que sous l’espèce de la monstruosité. Pour ce monde à venir et pour ce qui en lui aura fait trembler les valeurs de signe, de parole et d’écriture, pour ce qui conduit ici notre futur antérieur, il n’est pas encore d’exergue.»
+(Derrida, J. (1967). De la grammatologie. Editions de Minuit, p.14)
+La pensée contemporaine sur l’intelligence artificielle se structure autour d’une mise en scène particulière, celle de l’obligation critique comme antagonisme fondamental entre l’humain et la machine. Cette
+dramaturgie conceptuelle
+s’organise selon une logique binaire qui oppose systématiquement l’irréductibilité de la pensée humaine à la réduction algorithmique de l’IA. Mais cette opposition même ne constitue-t-elle pas un piège épistémologique ? Ne sommes-nous pas en train de rejouer, sur la scène théorique, un conflit dont les termes mêmes méritent d’être déconstruits ?
+L’approche dominante dans la critique de l’IA révèle une structure paradoxale : en cherchant à préserver l’exceptionnalité humaine face à la menace du remplacement technologique, elle reproduit précisément le cadre conceptuel qui rend possible cette mise en concurrence. Cette
+circularité argumentative
+— où la défense de l’humain présuppose sa mise en compétition avec la machine — mérite une analyse approfondie.
+Topologie d’un narcissisme épistémologique
+L’argument central de la critique anthropocentrique repose sur ce que nous pourrions nommer l’
+axiome d’irréductibilité
+: la pensée humaine, dans sa complexité existentielle et phénoménologique, échapperait par essence à toute approche statistique ou inductive. Cette position s’appuie sur différentes traditions philosophiques — de la phénoménologie husserlienne à l’existentialisme sartrien, en passant par la psychanalyse freudienne — pour établir une différence ontologique entre la conscience humaine et le traitement algorithmique de l’information.
+Mais cette axiomatique ne révèle-t-elle pas, en creux, un présupposé plus fondamental encore ? La critique elle-même, en s’arrogeant le pouvoir de juger ce qui est authentiquement humain et ce qui ne l’est pas, manifeste une forme de
+narcissisme épistémologique
+. Elle présuppose sa propre capacité à distinguer le vrai du faux, l’authentique du simulacre, sans jamais interroger les conditions de possibilité de ce jugement. Cette auto-attribution de légitimité critique constitue peut-être le point aveugle de toute la démarche.
+La notion même de “remplacement” véhicule une métaphysique implicite — celle d’une substitution terme à terme, d’une équivalence fonctionnelle entre entités discrètes. Or, l’histoire des transformations techniques nous enseigne que le remplacement n’opère jamais selon une logique d’identité stricte. Le moule à injection n’a pas reproduit à l’identique le travail de l’artisan ébéniste ; il a reconfiguré l’ensemble du système de production, de distribution et d’usage des objets manufacturés. De même, la photographie n’a pas simplement remplacé le portrait peint ; elle a inauguré un nouveau régime de visibilité et de reproduction des images.
+Cette
+dynamique transformationnelle
+échappe à la logique binaire du remplacement. Elle opère par déplacement, reconfiguration, émergence de nouvelles possibilités et de nouveaux agencements socio-techniques. Penser l’IA selon le paradigme du remplacement, c’est déjà s’inscrire dans une grille de lecture qui présuppose ce qu’elle prétend critiquer : la commensurabilité de l’humain et de la machine.
+L’intelligence alien
+L’expression “intelligence artificielle” elle-même témoigne d’un anthropomorphisme fondamental. En qualifiant ces systèmes d'”intelligents”, nous projetons sur eux notre propre conception de l’intelligence (parce que nous supposons que l’être humain a un lien particulier avec l’intelligence dont nous dérivons le reste), puis nous nous étonnons qu’ils n’y correspondent pas parfaitement. Cette
+circularité projective
+masque ce qui constitue peut-être l’enjeu le plus radical de ces technologies : l’émergence d’une forme d’intelligence radicalement autre, d’une
+intelligence alien
+dont les modes opératoires échappent à nos catégories cognitives habituelles.
+Plutôt que de mesurer l’IA à l’aune de la pensée humaine, ne devrions-nous pas explorer ce qu’elle fait à notre conception même de l’intelligence ? Comment ces systèmes inductifs, ces espaces latents multidimensionnels, ces architectures neuronales artificielles reconfigurent-ils notre compréhension de ce que penser veut dire ?
+Le test de Turing, dans sa formulation originale, contenait déjà une critique implicite de l’essentialisme que nous retrouvons aujourd’hui dans les débats sur l’IA. En proposant un critère purement comportemental et relationnel de l’intelligence, Turing contournait la question métaphysique de la “vraie” pensée pour se concentrer sur les effets pragmatiques de l’interaction. Cette approche
+performative
+de l’intelligence — où celle-ci se définit par ce qu’elle fait plutôt que par ce qu’elle est — offre une alternative à l’impasse du débat sur le remplacement.
+Mais la pensée critique contemporaine semble avoir oublié cette leçon. En cherchant à établir une différence essentielle entre intelligence humaine et artificielle, elle retombe dans le piège métaphysique que Turing avait précisément tenté d’éviter. Ce
+retour du refoulé essentialiste
+témoigne peut-être de notre difficulté à penser véritablement l’altérité technique.
+La contamination
+L’opposition entre pensée humaine et traitement algorithmique présuppose une séparation originaire entre l’humain et la technique. Or, comme l’ont montré des penseurs aussi divers que Leroi-Gourhan, Simondon ou Stiegler, cette séparation est elle-même un artefact conceptuel. L’humain s’est toujours constitué dans et par la technique ; la technique a toujours été le milieu de déploiement de l’humain. Cette
+co-constitution anthropotechnique
+rend caduque toute tentative de penser l’un sans l’autre.
+L’écriture, première technologie de l’intelligence, a profondément reconfiguré nos capacités cognitives. L’imprimerie a transformé les modes de circulation et de validation du savoir. L’informatique, aujourd’hui, participe d’une nouvelle mutation anthropologique dont nous commençons à peine à percevoir l’ampleur. Ces technologies ne sont pas de simples outils externes ; elles sont constitutives de ce que nous appelons “pensée”.
+L’IA, dans cette perspective, apparaît comme un nouveau
+pharmakon
+— à la fois poison et remède dans la duplicité d’une conjuration. Elle révèle la nature toujours-déjà technique de notre intelligence tout en introduisant de nouvelles formes de médiation cognitive. Les réseaux de neurones artificiels ne sont pas des copies dégradées de nos cerveaux ; ils sont des
+extensions prothétiques
+qui augmentent et transforment nos capacités cognitives selon des modalités inédites.
+Cette dimension pharmocologique de l’IA échappe à la logique binaire du remplacement. Il ne s’agit ni de substituer la machine à l’humain, ni de préserver l’humain contre la machine, mais d’explorer les nouvelles configurations anthropotechniques qui émergent de leur interaction.
+Critique de la critique critique
+La critique anthropocentrique de l’IA partage, malgré elle, le même
+espace dramaturgique
+que les discours techno-optimistes qu’elle prétend combattre. En acceptant les termes du débat — remplacement, comparaison, compétition entre intelligence humaine et artificielle — elle contribue à renforcer le cadre conceptuel qui rend possible cette mise en concurrence. Cette
+complicité structurelle
+révèle les limites d’une approche purement défensive de l’exceptionnalité humaine.
+Plus troublant encore : en cherchant à sauvegarder une essence humaine pure de toute contamination technique, la critique anthropocentrique rejoint paradoxalement certaines positions transhumanistes dans leur volonté de tracer une frontière nette entre l’humain et la machine. Les deux positions, apparemment opposées, partagent le même présupposé d’une séparabilité ontologique entre ces deux domaines.
+Une véritable critique de l’IA devrait peut-être commencer par abandonner le point de vue anthropocentrique qui structure actuellement le débat. Cela ne signifie pas renoncer à toute évaluation critique, mais déplacer le terrain de la critique. Plutôt que de juger l’IA à l’aune de critères humains, il s’agirait d’explorer les nouvelles normativités, les nouveaux modes d’existence, les nouvelles formes de subjectivation qui émergent avec ces technologies.
+Cette approche
+xéno-critique
+— une critique qui accepte l’altérité radicale de son objet et du sujet critique — permettrait peut-être de dépasser l’impasse actuelle. Elle ouvrirait la voie à une pensée véritablement contemporaine de l’intelligence artificielle, capable de saisir ce que ces technologies font à notre monde plutôt que de mesurer ce qu’elles ne sont pas. Mais à cette fin, elle doit se mettre elle-même en jeu et intensifier le doute envers elle-même : avoir la même méfiance envers l’IA qu’envers l’humanité et ne pas présupposer que l’être humain est.
+L’horizon post-anthropocentrique comme espérance
+Si l’intelligence artificielle n’est ni un simple outil ni un concurrent de l’intelligence humaine, mais un nouveau mode d’existence qui reconfigure l’ensemble de nos relations au monde et à nous-mêmes, alors c’est toute notre approche éthique qui doit être repensée. Il ne s’agit plus de protéger une essence humaine menacée, mais d’inventer de nouvelles formes de coexistence avec ces altérités techniques.
+Cette
+éthique relationnelle
+devrait partir du constat de notre intrication toujours-déjà technique pour penser les conditions d’une cohabitation créative avec l’IA. Elle devrait explorer les potentialités émancipatrices de ces technologies tout en restant vigilante face à leurs usages aliénants. Elle devrait, surtout, abandonner la position de surplomb qui caractérise la critique anthropocentrique pour adopter une posture d’expérimentation prudente.
+La véritable question politique posée par l’IA n’est pas celle du remplacement de l’humain par la machine, mais celle de la reconfiguration des rapports de pouvoir dans un monde où l’intelligence se distribue selon de nouvelles modalités. Qui contrôle ces systèmes ? À quelles fins sont-ils développés ? Comment leurs bénéfices et leurs risques sont-ils répartis dans la société ?
+Ces questions appellent une
+politique de l’intelligence artificielle
+qui ne se limite pas à la régulation technique mais qui interroge les transformations profondes de nos sociétés. Une telle politique devrait articuler critique sociale et innovation technique, justice distributive et créativité technologique.
+L’intelligence artificielle constitue peut-être l’impensé de notre époque — non pas parce qu’elle serait négligée ou ignorée, on en parle beaucoup, beaucoup trop, mais parce que les coordonnées conceptuelles dont nous disposons pour la penser restent inadéquates. La critique anthropocentrique, dans sa volonté légitime de préserver la dignité humaine, manque ce qui fait la radicalité de ces technologies : leur capacité à nous faire sortir de nous-mêmes, à nous confronter à des formes d’altérité qui excèdent nos catégories habituelles, leur caractère monstrueux et à venir (Derrida, De la grammatologie).
+Plutôt que de chercher à préserver une essence humaine fantasmée, ne devrions-nous pas explorer les devenirs inédits que ces technologies rendent possibles ? Plutôt que de rejouer éternellement le théâtre de l’opposition entre l’humain et la machine, ne devrions-nous pas inventer de nouvelles fictions, de nouvelles façons de penser et d”éprouver notre condition sans essence techno-humaine ?
+L’enjeu n’est pas de sauver l’humain de la technique, mais de penser à nouveaux frais ce que devient l’humain avec et par la technique. Cette tâche — qui est à la fois philosophique, politique et existentielle — définit peut-être l’horizon de notre temps. Elle exige de nous un effort de pensée qui ne se contente pas de défendre des positions acquises, mais qui accepte le risque du change (Malabou). Car c’est seulement en acceptant d’être transformés par ce que nous créons que nous pourrons espérer expérimenter, ne serait-ce que partiellement, le sens de cette transformation.
+L’intelligence artificielle nous place ainsi face à notre propre finitude — non pas comme une menace externe, mais comme le miroir noir de notre condition toujours-déjà technique. Elle nous rappelle que l’humain n’a jamais été cette essence pure et autonome que certains voudraient préserver, il n’a jamais été autonome ou souverain, mais un être en devenir permanent, se constituant dans et par ses relations avec ses autres, techniques autant que biologiques, aliénant et s’aliénant, toujours à la lisière de son épiderme.
+pharmakon
+performativité
+anthropocentrisme
+critique
+intelligence artificielle
+post-humain
+devenir-machine
+Altérité
+reconfiguration
+co-constitution
+technogenèse
+anthropotechnique
+xéno-critique
+éthique relationnelle
+essentialisme
+
+---------
+
+=== L’empreinte carbone de l’œuvre d’art ===
+Date: Date inconnue
+URL: https://chatonsky.net/empreinte/
+
+05/2025
+Méthodologie artistique
+La dis-apparition carbonique : généalogie d’une injonction paradoxale
+La question de l’empreinte carbone s’impose aujourd’hui avec l’insistance d’une évidence axiomatique dont la force normative échappe à toute contestation légitime. Comment, en effet, refuser l’impératif catégorique de la réduction carbonique sans se faire simultanément le complice tacite d’un écosuicide planétaire ? L’artiste contemporain — figure exemplaire d’une subjectivité à l’agentivité réflexive — se trouve dès lors confronté à cette injonction paradoxale : produire (du sens, des affects, des percepts, des concepts) tout en minimisant sa production matérielle ; inscrire une trace tout en l’effaçant ; apparaître tout en disparaissant. Ce qui s’articule dans ce paradoxe, ce n’est rien moins que la mise en tension fondamentale entre deux modalités ontologiques : l’être-empreinte et l’être-sans-empreinte.
+Les initiatives se multiplient, prolifèrent, s’institutionnalisent : formations écoresponsables pour artistes, audits carbone des biennales, transition énergétique des lieux d’exposition, rationalisation des flux logistiques, relocalisation des productions. L’axiomatique carbologique s’impose ainsi comme nouveau métadiscours régulateur de la production artistique contemporaine — discours dont l’évidence même mérite d’être interrogée, non pour la contester frontalement, mais pour en déplier les implications ontopolitiques.
+Car qu’est-ce qu’une empreinte, sinon la manifestation d’une présence-absence, l’indice d’un passage, la matérialisation d’un avoir-été-là ? La trace carbone n’est-elle pas, en ce sens, la signature même de notre inscription dans le monde ? La volonté de son effacement ne trahit-elle pas un désir plus profond, plus troublant : celui de n’avoir jamais été là ?
+Crypte de l’effacement
+La capacité d’effacer ses traces constitue, selon la théorisation lacanienne, le propre de l’humain face à l’animal. L’animal — nous dit Lacan dans « Subversion du sujet et dialectique du désir dans l’inconscient freudien » — peut traquer, flairer, pister ; il peut même suggérer, simuler, feindre. Mais il demeure incapable de cette métaopération qu’est la feinte de la feinte, l’effacement stratégique de la trace qui constitue l’entrée dans l’ordre symbolique. L’humain, lui, peut effacer ; mieux : il peut laisser la trace de l’effacement d’une trace, laisser une trace qui n’est pas la sienne comme ces chaussures d’agent secret aux semelles inversées : le traqueur croyant s’approcher s’éloigne.
+Mais cette capacité supposée souveraine se heurte à l’objection derridienne : peut-on jamais être certain d’avoir totalement effacé ses traces ? N’y a-t-il pas toujours un reste, un résidu, un symptôme — qu’il soit social, politique ou inconscient — qui fait retour ? La prétention à l’effacement radical ne relève-t-elle pas d’une illusion de maîtrise ? D’un côté, aucune trace n’est absolument ineffaçable ; de l’autre, aucun sujet ne possède le pouvoir d’effacer radicalement une trace. La frontière anthropozoologique vacille sur ce point précis : l’humain n’est pas tant celui qui peut effacer ses traces que celui qui peut croire les avoir effacées (l’ordre symbolique changeant alors de place).
+Or, l’injonction contemporaine à la réduction de l’empreinte carbone ne participe-t-elle pas précisément de cette illusion ? N’est-elle pas, au fond, le symptôme d’un désir d’invisibilité, d’une volonté de n’être-pas-là qui confine au fantasme de la disparition ? Effacer sa trace carbonique, c’est feindre la feinte, c’est marcher quelque part pour que rien n’apparaisse et que l’Autre — cet ordre symbolique qui nous constitue et nous détermine — n’ait aucune prise sur notre passage.
+L’exemplarité contre-productive
+Pourquoi le champ artistique se préoccupe-t-il tant de son empreinte carbonique alors même que sa contribution aux émissions globales semble quantitativement négligeable ? Cette question mérite d’être posée dans sa radicalité : n’y a-t-il pas, dans cette focalisation, quelque chose comme une surdétermination symbolique qui excède largement l’enjeu matériel ?
+L’art se voit assigner une fonction d’exemplarité qui relève d’une logique quasi messianique : si quelqu’un peut bien le faire — réduire son empreinte, montrer la voie, incarner la possibilité d’un autre rapport au monde —, c’est bien l’artiste. Les autres suivront. Cette position fait de l’artiste le prototype d’une nouvelle subjectivité écocompatible, le laboratoire vivant d’un être-au-monde décarbonisé, un pasteur réanimant la Terre.
+Mais cette exemplarité ne risque-t-elle pas de se dissoudre dans l’océan médiatique des industries culturelles qui, elles, ne cessent de produire massivement du carbone tout en spectacularisant la vertu écologique ? L’exemplarité artistique ne va-t-elle pas effacer une autre trace, celles des industries et du consumérisme mondialisé ? En quoi l’artiste servirait d’exemple pour des logiques et des manières de produire si différentes ? L’artiste-exemplaire ne se trouve-t-il pas piégé dans une double contrainte : produire pour exister, disparaître pour être vertueux ?
+Ce qui se joue ici, c’est le paradoxe constitutif de toute praxis artistique à l’ère de l’anthropocène : le désir du « sans-empreinte » est, en dernière instance, un désir d’effacement qui confine à l’anéantissement. L’artiste se trouve ainsi sommé de résoudre une équation impossible : comment inscrire sans laisser de trace ? Comment apparaître sans être là ?
+Métaphysique du carbone
+Reconnaissons cette évidence trop souvent occultée : nous produisons inévitablement du carbone parce que nous sommes des êtres carboniques. Notre corps même — cette matérialité première de notre être-au-monde — est un composé organique dont le carbone constitue l’élément structural fondamental. La question ne peut donc être celle d’un effacement total de l’empreinte — fantasme mortifère de la disparition —, mais celle d’une discrimination qualitative : quelles empreintes peuvent/doivent être effacées ? Lesquelles méritent d’être inscrites, préservées, transmises ? Sur quel critère instaurer une inégalité carbonique (car de toute façon cette inégalité aura lieu, mais pour l’instant elle s’élabore sur le critère de l’accumulation du capital) ?
+L’essentialisation de l’empreinte — sa réduction à un indicateur quantitatif homogène — conduit à une impasse conceptuelle : elle nous empêche de penser le vivant comme dispositif carboproductif différencié. La métaphysique du carbone que nous esquissons ici vise précisément à réintroduire de la différence qualitative dans l’homogénéité supposée de la trace carbonique.
+Si la réduction de l’empreinte carbone s’impose comme horizon normatif indépassable de notre époque, c’est parce qu’elle révèle, en creux, ce qui nous poursuit, ce dont nous cherchons à nous échapper : la techno-logie comme infrastructure invisible dont nous dépendons absolument. Qui a déjà vu du pétrole dans son état brut ? Qui a contemplé l’immensité des navires porte-conteneurs sillonnant les océans ? Qui a assisté à la densité cauchemardesque d’un élevage industriel ? Ce qui nous poursuit, c’est précisément ce que nous ne voyons pas, ce qui circule sous nos pieds, au-dessus de nos têtes, dans les interstices du visible : l’infrastructure technologique qui constitue la condition de possibilité de notre monde.
+L’invisibilisation infrastructurelle
+La volonté d’effacer notre empreinte révèle ainsi son envers dialectique : elle est la réponse symptomatique à un autre effacement, plus fondamentale, celui de l’infrastructure technologique qui soutient notre existence quotidienne. La logistique contemporaine — cette science du déplacement optimal des corps et des marchandises — opère précisément par l’invisibilisation de ses propres circuits. Les tuyaux, les câbles, les conteneurs, les serveurs, les data centers, les usines : autant d’éléments constitutifs d’une architecture séparant le monde de lui-même, instaurant des partitions entre le visible et l’invisible, des circulations soustraites au regard.
+Cette étrange topologie — faite de vides et de pleins, de surfaces et de profondeurs, d’apparitions et de disparitions — constitue la structure même de notre rapport techno-médié au monde. Réduire notre empreinte, c’est donc vouloir réduire notre dépendance à ce dispositif technologique invisible tout en utilisant ce même dispositif pour rendre visible notre vertu écologique.
+Les engrais chimiques illustrent parfaitement cette dialectique : ils augmentent la productivité végétale tout en nous intoxiquant graduellement ; ils sont invisibles à l’œil nu, mais leur présence s’inscrit dans les corps, les sols, les eaux ; nous nettoyons des aliments propres précisément parce qu’ils sont contaminés. L’invisibilité de la trace n’est pas son absence, mais sa transposition dans un autre régime de visibilité.
+Nous sommes ainsi entourés de traces invisibles qui nous constituent, nous traversent, nous déterminent. Ce qui est sans empreinte apparente laisse des empreintes en nous. La pollution atmosphérique ne se voit pas — sauf dans les cas extrêmes de smog urbain — mais elle s’inscrit dans nos poumons, dans notre sang, dans nos cellules. L’invisibilité de l’empreinte n’est pas sa disparition, mais sa mutation ontologique : d’externe, elle devient interne ; d’objective, elle devient subjective ; de visible, elle devient sensible.
+Temporalité de l’œuvre
+La déconstruction du caractère homogène de l’empreinte à l’ère de l’anthropocène nous conduit ainsi à une question plus fondamentale, plus inquiétante aussi : qu’est-ce qui mérite de faire empreinte ? La question n’est plus tellement « par qui sommes-nous suivis ? », mais « que voulons-nous laisser à ceux qui nous suivront (peut-être) ? ». Ce déplacement interrogatif est décisif : il substitue à la logique paranoïaque de la poursuite (quelqu’un/quelque chose nous suit) une éthique de la transmission (nous laissons quelque chose à quelqu’un).
+C’est précisément à cet endroit théorique que l’empreinte de l’œuvre d’art s’institue comme le témoignage de ce que nous avons été, comme la trace de cette infinie fragilité qui nous détermine historiquement. L’œuvre d’art anthropocénique ne peut plus prétendre à l’éternité — cette temporalité métaphysique qui a longtemps constitué son horizon d’aspiration —, mais elle ne peut non plus se résoudre à la pure évanescence d’une performance sans reste. Elle s’inscrit désormais dans une transtemporalité complexe qui articule le maintenant de sa production, le passé de ses matériaux et le futur de sa réception possible.
+Ne laisser aucune empreinte, ce serait finalement présupposer qu’il n’y aura plus de témoin après nous, acter cette extinction qui nous guette parce qu’on l’aurait refoulée plutôt que pensée. L’œuvre d’art assume au contraire sa fonction testimoniale : elle fait signe vers un après-nous qu’elle contribue à rendre possible précisément en s’adressant à lui.
+Poétique carbonique du reste
+Penser l’œuvre d’art à l’ère de l’anthropocène implique ainsi une redéfinition radicale de sa temporalité propre. L’œuvre n’est plus ce qui perdure inchangé à travers les âges — fantasme classique de l’immortalité artistique — mais ce qui témoigne, ce qui fait signe, ce qui s’adresse à un temps qui n’est pas encore le nôtre. Elle devient témoin-pour plutôt que monument-de.
+Cette carbopoétique du reste s’articule autour d’une tension constitutive entre deux impératifs apparemment contradictoires : la nécessité de réduire l’empreinte matérielle de la production artistique et l’exigence de laisser une trace signifiante dans le monde. Comment l’art peut-il assumer sa condition d’empreinte tout en participant à la réduction globale des émissions carboniques ?
+Prenons un exemple concret : les œuvres numériques contemporaines, supposément « immatérielles », reposent en réalité sur une infrastructure matérielle énergivore (serveurs, réseaux, terminaux) dont l’empreinte carbone est considérable. L’apparente légèreté de l’art numérique dissimule la pesanteur énergétique de ses conditions de possibilité. À l’inverse, une sculpture en bois local n’implique qu’une faible empreinte de production, mais s’inscrit durablement dans la matérialité du monde.
+Ce qui se joue ici, c’est la nécessité d’une comptabilité carbone différenciée qui prendrait en compte non seulement l’empreinte de production, mais aussi la durabilité, la réparabilité, la recyclabilité et la signifiance culturelle de l’œuvre. Une installation éphémère qui mobilise des ressources considérables pour un temps d’exposition limité pose un problème éthique différent de celui d’une œuvre durable à faible empreinte de production, mais haute intensité symbolique.
+Contre-extinction
+L’enjeu ultime de cette réflexion est proprement politique : il s’agit d’élaborer une politique des traces qui permette de discriminer entre les empreintes nécessaires et les empreintes superflues, entre les inscriptions sensibles et les dissipations entropiques. Cette politique ne peut se réduire à une simple comptabilité carbone ; elle implique une réflexion axiologique sur la valeur des traces que nous laissons dans le monde.
+L’art anthropocénique se définit ainsi comme pratique paradoxale d’inscription-effacement : il s’agit simultanément de réduire l’empreinte matérielle de la production artistique et d’intensifier sa puissance symbolique, sa capacité à faire-signe vers un avenir possible. Ce paradoxe n’est pas une contradiction logique, mais la condition même de possibilité d’un art à la hauteur de notre temps.
+La contre-extinction que nous proposons ici ne vise pas à nier la possibilité réelle de l’extinction comme horizon de notre époque, mais à lui opposer une praxis artistique qui assume pleinement sa fonction de témoignage, fût-ce sans témoin. Résister à l’extinction, ce n’est pas seulement réduire notre empreinte carbone ; c’est aussi et surtout laisser des traces qui témoignent de notre passage, des traces qui permettent à ceux qui viendront après nous (s’ils viennent) de nous penser, de nous imaginer, de nous reconnaître comme ayant été là. On peut s’interroger sur le fait que la réduction de l’empreinte de l’art puisse servir, de part son exemplarité, aux industries pour continuer comme si de rien n’était. Si nous continuons l’empreinte de l’art, parce que nous estimons que ce témoignage est constitutif de la possibilité de l’avenir, et exigeons l’arrêt de certaines industries, ne serait-ce pas plus efficace et frontal? Poser un choix plutôt qu’une moyenne qui toucherait à tous et à chacun également.
+En ce sens, l’œuvre d’art est moins une production qu’une transmission, moins un objet qu’un geste, moins une présence qu’une adresse. Elle s’inscrit dans cette temporalité paradoxale du déjà-plus et du pas-encore qui définit notre condition historique. Elle témoigne ainsi de cette infinie fragilité qui nous constitue comme êtres finis dans un monde fini.
+La question de l’empreinte carbone de l’œuvre d’art à l’ère de l’anthropocène n’est pas une question technique ou comptable, mais proprement métaphysique : elle interroge notre rapport au temps, à la finitude, à la trace, à l’autre qui nous suit. Elle nous confronte à cette évidence troublante : nous ne pouvons pas ne pas laisser de traces, mais nous pouvons décider lesquelles méritent d’être laissées. Et cette décision engage notre responsabilité collective face à ce qui vient après nous — qu’il s’agisse d’autres humains, d’autres vivants ou simplement d’autres temps.
+extinction
+art
+temps
+trace
+technologie
+infrastructure
+effacement
+témoignage
+transmission
+Empreinte carbone
+
+---------
+
+=== De la compression à la latentisation ===
+Date: Date inconnue
+URL: https://chatonsky.net/compress-latent/
+
+05/2025
+Réflexion
+,
+Méthodologie technologique
+L’hypermnésie et ses apories infrastructurelles
+L’intervalle temporel qui nous précède (1994-2014) fut marqué par l’émergence d’une hypermnésie techno-culturelle — cette accumulation exponentielle des rétentions mémorielles rendue possible par le double processus d’échantillonnage-numérisation du sensible et par sa captation décentralisée qu’autorisait la structure réticulaire du Web. Cette période — qu’on pourrait qualifier d’hyper-industrielle — nous a confrontés à un paradoxe onto-technique : alors même que nous célébrions l’étonnante capacité des supports matériels à contenir des quantités toujours plus vertigineuses de signes, l’infrastructure exigée pour cette conservation s’est révélée de plus en plus vorace en ressources tant énergétiques que matérielles. La tension entre l’infinité potentielle du stockable et la finitude des moyens de stockage a ainsi dessiné les contours d’une crise infra-mémorielle.
+La compression algorithmique des documents s’imposa comme première réponse stratégique à cette situation. Observons d’ailleurs que l’échantillonnage lui-même — cette découpe du continu en segments discrets — constitue déjà une proto-compression, transformant des amplitudes analogiques infiniment divisibles en segments numériques finis. En théorie de l’information, un document ne se distingue pas fondamentalement du bruit ; il n’est qu’un bruit structuré selon des patterns discernables par des agents humains : l’oiseau et un
+perlin noise
+de pixels demeurent, dans leur matérialité numérique, des configurations de pixels. Mais cette approche compression-décompression, opérant sur des documents un par un tout en préservant leur intégrité et leur caractère discret — chaque document restant identifié comme unité autonome —, a rapidement atteint ses limites opérationnelles et conceptuelles.
+Le tournant statistique
+L’application de l’induction statistique à des ensembles massifs de documents — traités non plus individuellement, mais comparativement selon des critères de proximité formelle ou sémantique — introduit une césure épistémique dans notre rapport à la mémoire. Cette rupture signe simultanément la fin d’un certain paradigme de compression et inaugure une transformation profonde de notre rapport à la mémoire externalisée.
+Il ne s’agit plus désormais de coder-décoder un document dans son individualité close, mais d’établir des distributions probabilistes sur des ensembles ouverts. Considérons l’exemple paradigmatique d’une IA apprenant à reconnaître et/ou générer un « oiseau » : on lui soumet un corpus considérable d’images d’oiseaux qu’elle analyse — sans aucun processus idéationnel préalable — comme distributions de pixels sur une grille. L’IA en extrait alors une méta-image — ou plutôt une image sans image — constituée de vecteurs représentant les limites probabilistes de ce que peut être un « oiseau ». Cette cartographie vectorielle possède nécessairement des zones frontalières poreuses où différentes entités peuvent se confondre, où une entité peut être perçue dans les détails d’une autre, brouillant ainsi les démarcations ontologiques traditionnelles.
+La vectorisation n’opère pas selon les principes de la compression classique. Elle ne vise pas la réduction volumétrique des documents dans leur singularité préservée, mais effectue des opérations comparatives pour constituer des nuées vectorielles distribuées statistiquement. Ces nuées permettent ensuite de régénérer non seulement les images ayant servi à l’apprentissage, mais également toutes les autres images — celles du passé absentes du dataset initial et, plus significativement encore, celles à venir, pour autant qu’elles s’inscrivent dans la régularité statistique apprise. Sur des ensembles de plusieurs milliards d’images, ces possibilités dépassent même l’ensemble des images susceptibles d’être effectivement produites.
+Considérons le cas exemplaire de LAION-5B, composé originellement de 5,85 milliards de paires image-texte filtrées par CLIP, multilingues, représentant plusieurs centaines de téraoctets si l’on comptabilise images, textes associés et métadonnées. Le résultat de cette opération — le
+checkpoint
+contenant l’espace latent — tient dans environ 6 Go. Cela représenterait un taux de « compression » de 99,999 02 % ! Cette statistique vertigineuse révèle qu’il ne s’agit plus de compression à proprement parler : les documents discrets sont perdus, transmutés ; ne subsiste que leur ossature statistique. Ils n’existent plus qu’en tant que possibles, en potentialité pure.
+La méta-mémorialisation
+Dans notre quête d’enregistrer un nombre toujours croissant de rétentions tertiaires (pour reprendre la terminologie de Bernard Stiegler), nous avons métamorphosé le statut même de la mémorisation, passant de documents discrets — parfois indiciels — à des motifs formels abstraits. Les documents du régime mémoriel antérieur possédaient une forme de dureté et de réitérabilité : on pouvait les consulter indéfiniment, jusqu’à la détérioration de leur support. La vectorisation induit non pas une simple compression, mais ce qu’il convient de nommer une
+abstraction dimensionnelle
+, entendue comme processus de transformation de données complexes et volumineuses en représentations de dimension réduite préservant les caractéristiques essentielles et les relations sémantiques des données originales.
+Cette méthode, au cœur de l’intelligence artificielle contemporaine, transcende la simple compression numérique en opérant une réduction sélective qui élimine l’information redondante tout en conservant les structures conceptuelles fondamentales. Contrairement à la compression traditionnelle qui vise la reconstruction fidèle, l’abstraction dimensionnelle est un processus de transformation de données complexes et volumineuses en représentations de dimension réduite qui préservent les caractéristiques essentielles et les relations sémantiques des données originales. Cette méthode, utilisée en intelligence artificielle, va au-delà d’une simple compression numérique en opérant une réduction sélective qui élimine l’information redondante tout en conservant les structures conceptuelles fondamentales. Contrairement à la compression traditionnelle qui vise la reconstruction fidèle, l’abstraction dimensionnelle crée un espace vectoriel où les similarités conceptuelles sont préservées malgré une réduction de taille pouvant atteindre plusieurs ordres de grandeur. Son application permet l’entraînement de modèles qui peuvent raisonner sur des volumes de données autrement inaccessibles.
+On pourrait aussi conceptualiser ce processus comme
+latentisation
+— technique de transformation mathématique convertissant des données brutes en représentations compactes dans un espace latent, où chaque dimension encode des caractéristiques abstraites plutôt que des attributs directs. Ce processus exploite les principes de l’apprentissage non supervisé pour découvrir et modéliser les variables cachées (latentes) qui génèrent les données observables. La latentisation permet une compression sémantique extrême — atteignant souvent des ratios supérieurs à 1:100 000 — tout en maintenant la capacité de générer du contenu similaire ou d’effectuer des opérations conceptuelles sur les données. Elle constitue le fondement des modèles génératifs contemporains et des systèmes de représentation distribuée qui capturent l’essence informationnelle sans stocker les données brutes originales.
+Ce processus marque simultanément un dépassement de la compression bruitée et la résurgence inattendue — quoique transformée — des Formes idéales platoniciennes. Il y a en effet quelque chose de profondément platonicien dans cette aspiration à passer de l’extension des étants particuliers à la définition essentielle, à la forme idéale d’une catégorie d’étants. Cette approche permet à un système computationnel de reconnaître un oiseau jamais rencontré auparavant, reproduisant ainsi notre capacité quotidienne à identifier des êtres singuliers que nous n’avons jamais perçus dans leur individualité spécifique.
+Le destin de cette approche néo-platonicienne algorithmique s’avère paradoxal : si l’IA sait reconnaître des étants jamais perçus, elle sait également générer des simulacres — des simili-documents dotés d’une troublante crédibilité, mais dépourvus du statut de traces indicielles d’étants factuels. Elle fait ainsi entrer le réalisme dans l’ère d’un
+tremblement contingent
+, ce que nous pourrions nommer le
+dis-réalisme
+. Si l’IA ne générait que des oiseaux effectivement existants, elle ne ferait que reproduire exactement son dataset, et sa vectorialisation ou latentisation n’offrirait aucun avantage en termes d’économie de données.
+L’effacement de chaque trace
+Mesurons-nous pleinement l’ampleur de cette transformation du régime mémoriel qui, d’un point de vue anthropologique, paraît aussi significative que l’apparition historique des rétentions tertiaires — ces mémoires extériorisées sur des supports matériels ? En reprenant le fil conducteur de la réflexion derridienne sur l’archive, rappelons que tout vivant, toute expérience, tout rapport à l’altérité laisse une trace. Même si cette trace n’est jamais écrite, inscrite, enregistrée, même si elle est perdue, disparue, effacée — il y a trace. Sa finitude réside précisément dans sa possible perte, sa mort, son incapacité à être archivée.
+L’archivage traditionnel présuppose une organisation, une appropriation, un « moi » ou un « je », un pouvoir politique, un
+archonte
+dont la légitimité et la compétence soient socialement reconnues, un lieu d’autorité où les documents sont classés, évalués, interprétés, hiérarchisés, sélectionnés. On détruit presque invariablement davantage qu’on ne préserve — y compris des œuvres importantes ou géniales — et l’on ne préserve jamais sans exercer une certaine violence épistémique. Derrida nomme
+pulsion d’archive
+cette combinaison d’un mouvement d’interprétation qui pousse à conserver, à maîtriser les documents et les œuvres, et d’une pulsion destructrice qui peut conduire à la perte définitive de corpus entiers et s’apparente à la pulsion de mort. Dans l’opération des archivistes publics, le lien est étroit entre pulsion d’emprise, pulsion de pouvoir et pulsion d’archive.
+« La pulsion d’archive est une pulsion terrible. C’est une pulsion destructrice, contrairement à l’image conservatrice qu’on en a. (…). Ce filtrage de l’archive, c’est une chose terrifiante parce que ça ne concerne pas seulement les documents publics, les archives de la télévision, de la radio ou les documents officiels, ça concerne par exemple les œuvres d’art (…) et par définition, on ne saura jamais, puisque ça a été détruit »
+(
+https://filologiaunlp.wordpress.com/wp-content/uploads/2018/02/trace-et-archive-image-et-art.pdf).
+C’est précisément cette pulsion archivistique qui est à l’œuvre dans le processus de vectorisation : nos mémoires déposées sur le Web ont été métabolisées pour nourrir l’apprentissage profond des systèmes contemporains. Ces traces pourront désormais être effacées une à une dans leur singularité. Elles n’existeront plus sous un nom propre, une signature individuelle, mais comme régime commun de la mémoire : au nom d’aucun, au nom de tous. La trace singulière se trouve ainsi paradoxalement effacée par le processus même de mémorisation vectorielle dans le cadre défini par l’institution — généralement privée — qui détient nos archives collectives.
+Entre dis-mémoire et méta-mémoire
+La latentisation opère ainsi une double transformation de notre rapport à la mémoire : d’une part, elle dis-mémorise en effaçant la singularité des documents originaux, mais d’autre part, elle méta-mémorise en conservant les patterns structurels qui permettent de régénérer des documents similaires, voire de produire des documents qui n’ont jamais existé, mais qui auraient pu exister. Cette tension entre dis-mémoire et méta-mémoire caractérise notre époque techno-mémorielle.
+La latentisation constitue donc une rupture épistémique majeure dans notre rapport à la mémoire collective. Elle ne se contente pas de transformer nos modes d’accès aux documents du passé, mais reconfigure fondamentalement la temporalité même de la mémoire. Le passé n’est plus ce qui a été enregistré et que l’on peut retrouver intact, mais devient un vaste champ de possibles actualisables selon des paramètres statistiques. Le futur n’est plus ce qui reste à enregistrer, mais ce qui peut déjà être généré à partir des patterns extraits du passé.
+Cette transformation de notre régime mémoriel soulève des questions politiques fondamentales. Qui contrôle ces espaces latents ? Quelles exclusions, quels biais sont intégrés dans ces abstractions dimensionnelles ? Comment se reconfigure le pouvoir des archontes à l’ère de la latentisation ? Ces questions ne relèvent pas simplement de préoccupations techniques ou juridiques, mais touchent à notre rapport fondamental à la temporalité, à l’identité et à l’altérité.
+La latentisation implique une forme de socialisation radicale de la mémoire : les traces individuelles sont dissoutes dans un espace statistique commun. Cette dissolution peut être interprétée comme une forme d’expropriation — nos mémoires singulières deviennent la matière première d’une méta-mémoire contrôlée par des entités privées. Mais elle peut aussi être vue comme une forme de communisation — nos mémoires individuelles contribuent à un patrimoine mémoriel collectif qui transcende nos singularités.
+Au-delà des inquiétudes légitimes qu’elle suscite, la latentisation ouvre peut-être la voie à une nouvelle logique de la mémoire. Face à l’explosion quantitative des traces numériques et aux limites matérielles de leur conservation intégrale, la latentisation propose une voie médiane : non pas tout conserver dans sa singularité (projet impossible), ni tout effacer (amnésie culturelle), mais extraire et préserver les patterns structurels qui permettent de régénérer des variations significatives.
+Cette approche résonne avec certaines conceptions traditionnelles de la mémoire culturelle, où ce qui importe n’est pas tant la préservation exacte des artefacts que la transmission des schémas qui permettent leur réinvention créative signant une résurrection qui ne serait pas simplement une répétition de ce qui a été. Dans les cultures à transmission orale, par exemple, ce qui se transmet n’est pas la version exacte d’un récit, mais les structures narratives qui permettent sa recréation contextuelle.
+La latentisation pourrait ainsi être comprise non comme une rupture absolue avec les régimes mémoriels antérieurs, mais comme leur métamorphose dans un contexte d’abondance informationnelle. Elle nous invite à repenser nos attachements aux traces singulières et à explorer les potentialités d’une mémoire distribuée, statistique et générative.
+Nous nous trouvons donc au seuil d’une nouvelle condition mémorielle, caractérisée non plus par l’accumulation et la conservation des traces discrètes, mais par leur métabolisation statistique et leur potentialisation générative. Cette condition n’est ni simplement technique, ni purement anthropologique, mais anthropo-technologique : elle reconfigure simultanément nos dispositifs techniques et nos modes d’être-au-monde mémoriel.
+La latentisation marque ainsi l’émergence d’un régime mémoriel inédit, où la mémoire n’est plus simplement ce qui a été, ni même ce qui pourrait être, mais le champ statistique des variations possibles autour de ce qui a été : la frontière entre factualité et facticité devient structurellement incertaine. Dans ce régime, la frontière entre mémoire et imagination, entre conservation et création, se trouve aussi fondamentalement brouillée. Nous entrons dans l’ère d’une mémoire
+contrefactuelle
+, où le « ce qui a été » se trouve indissociablement mêlé au « ce qui aurait pu être » et au « ce qui pourrait être ».
+Cette transformation de notre rapport à la mémoire collective nous oblige à repenser nos cadres conceptuels, nos pratiques archivistiques et nos politiques mémorielles. Elle nous invite à développer une nouvelle forme d’attention aux traces et à leur devenir adaptée à l’ère de la latentisation — un art de la navigation dans les espaces latents de notre mémoire collective devenue méta-mémoire.
+simulacre
+hypermnésie
+espace latent
+contrefactualité
+vectorisation
+dis-réalisme
+latentisation
+méta-mémoire
+pulsion-d'archive
+abstraction-dimensionnelle
+
+---------
+
+=== Des « images réelles»? ===
+Date: Date inconnue
+URL: https://chatonsky.net/images-reelles/
+
+05/2025
+Méthodologie technologique
+,
+Méthodologie artistique
+Dans un contexte où la technologie redéfinit constamment notre rapport au réel, une formulation de plus en plus récurrente dans les colloques et conférences attire l’attention : la distinction entre les « images réelles» et celles générées par intelligence artificielle. Cette dichotomie apparemment innocente mérite d’être interrogée en profondeur, car elle révèle non seulement notre rapport contemporain à l’image, mais aussi l’évolution historique de nos régimes de vérité et la manière dont les technologies émergentes reconfigurent notre ontologie visuelle.
+Les degrés de vérité des images
+Lorsque nous évoquons des « images réemmes» par opposition aux créations des IA génératives, nous présupposons implicitement l’existence d’une hiérarchie dans le statut véridique des représentations visuelles. Cette présupposition mérite d’être clarifiée. En effet, par réelles, on ne veut pas dire que ces images n’existent pas (toute image est réelle et matérielle) mais seulement qu’elles ne sont pas vraies. Qu’entendons-nous exactement par « vérité » d’une image ? Dans la tradition occidentale, depuis Aristote jusqu’à Leibniz, la vérité a souvent été définie comme une adéquation (
+adaequatio intellectus et rei
+) : correspondance entre l’intellect et la chose, entre la représentation et le représenté. Dans cette perspective, l’« image réelle » serait celle qui établit un rapport fidèle avec son référent dans le monde sensible.
+La photographie a progressivement acquis ce statut privilégié de « vraie image » en raison de son processus physico-chimique qui enregistre mécaniquement l’empreinte lumineuse du réel. Roland Barthes, dans
+La Chambre claire
+(1980), parle de cette qualité indicielle de la photographie comme d’un « ça-a-été » : une trace qui atteste de l’existence passée de son référent. Cette conception fait de la photographie une image dotée d’une vérité intrinsèque, non pas en vertu de sa ressemblance avec le réel (ce que toute peinture réaliste pourrait revendiquer), mais en raison de sa relation causale directe avec lui.
+Les images produites par intelligence artificielle générative fonctionnent selon une logique radicalement différente. Elles ne sont pas des indices directs du réel, mais plutôt des reconstitutions statistiques élaborées à partir d’un corpus d’images préexistantes. Un système comme DALL-E, MidJourney ou Stable Diffusion ne « voit » jamais directement la réalité ; il apprend à reconnaître des patterns visuels dans des millions d’images étiquetées puis à recombiner ces éléments en fonction de paramètres textuels. Ces systèmes génèrent donc des « images d’images », des représentations au second degré.
+Cette différence fondamentale dans le processus de production explique pourquoi ces images sont souvent qualifiées de « moins vraies » : elles n’entretiennent pas de relation causale directe avec un référent existant. Elles sont le produit d’une abstraction statistique plutôt que d’une impression physique. Vilém Flusser aurait sans doute vu dans ces images l’aboutissement de ce qu’il nommait les « images techniques » : des visualisations de concepts plutôt que des représentations d’objets.
+Une histoire des hiérarchies icontologiques
+Il est particulièrement instructif de noter que la photographie, aujourd’hui considérée comme le parangon de la « vraie image », était initialement perçue avec méfiance. Lorsque le daguerréotype fut présenté à l’Académie des sciences en 1839, de nombreux critiques et artistes considéraient cette nouvelle technique comme une « fausse image » mécanique, dépourvue d’âme et d’intention artistique. Baudelaire, dans son texte « Le public moderne et la photographie » (1859), décrivait cette invention comme « le refuge de tous les peintres manqués, trop mal doués ou trop paresseux pour achever leurs études ».
+Cette méfiance initiale s’explique en partie par le fait que la notion de vérité de l’image était alors associée à l’intervention de l’artiste, seule capable de transcender l’apparence pour révéler l’essence. La mécanisation du processus semblait contradictoire avec cette conception spiritualisée de la vérité artistique.
+Ce renversement historique du statut de la photographie révèle un principe fondamental : notre conception du réalisme et de la vérité des images est profondément liée à l’évolution des techniques de représentation. Chaque innovation majeure dans ce domaine reconfigure notre rapport au réel et à sa représentation. Le réalisme n’est pas une qualité absolue, mais une relation historiquement déterminée entre nos attentes perceptives et les possibilités techniques d’une époque.
+Ainsi, le cinéma a d’abord été perçu comme une représentation trop « crue » de la réalité, avant de devenir la norme du réalisme narratif. La télévision, puis la vidéo numérique ont chacune redéfini les contours de l’authenticité visuelle. Lev Manovich, dans
+Le Langage des nouveaux médias
+(2001), souligne comment chaque médium émergent réinvente les codes du réalisme tout en naturalisant ceux des médiums précédents.
+La dialectique de la vérité des simulacres
+Un phénomène remarquable se produit lorsqu’une technique de représentation s’installe durablement dans nos pratiques culturelles : elle se « naturalise », c’est-à-dire qu’elle devient transparente à notre perception. Les conventions qui lui sont propres — le noir et blanc de la photographie ancienne, le montage cinématographique, les compressions numériques — cessent d’être perçues comme des artifices pour devenir des voies d’accès normalisées au réel.
+Cette naturalisation correspond à ce que nous pourrions appeler une « métabolisation » culturelle : l’intégration progressive d’une technologie visuelle dans les habitudes perceptives d’une société. La photographie, initialement perçue comme artificielle et mécanique, s’est progressivement imposée comme l’image « naturelle » par excellence, au point que nous oublions souvent ses spécificités techniques (cadrage, perspective monoculaire, instant figé) pour n’y voir qu’une « fenêtre sur le monde ».
+Un aspect particulièrement paradoxal de cette dynamique réside dans le rôle constitutif que joue la « fausse image » dans l’établissement des hiérarchies visuelles. C’est précisément l’apparition d’une nouvelle forme d’image, initialement perçue comme « moins vraie », qui permet de consolider le statut « véridique » des formes précédentes. La photographie numérique a ainsi contribué à auréoler l’argentique d’une authenticité nostalgique ; l’image de synthèse a renforcé le statut « réel » de l’image photographique.
+Ce processus dialectique révèle que le « faux » n’est pas simplement l’opposé du « vrai », mais son horizon constitutif. Les images réputées « fausses » d’une époque sont souvent les précurseurs des « vraies images » de demain.
+Avant l’émergence des IA génératives, c’est l’image de synthèse et particulièrement la réalité virtuelle qui cristallisaient les angoisses liées au simulacre. Les mondes virtuels étaient perçus comme des univers artificiels menaçant notre ancrage dans le réel. Philippe Quéau, dès les années 1990, s’inquiétait (et désirait selon la logique de la conjuration) de cette « perte du réel » dans ses ouvrages comme
+Le Virtuel : vertus et vertiges
+(1993).
+Aujourd’hui, ces craintes se sont largement déplacées vers les images génératives. Ce transfert est révélateur : la réalité virtuelle, autrefois incarnation de l’artifice par excellence, apparaît désormais comme une extension un peu plus « légitime » du réel, tandis que les créations des IA deviennent le nouveau territoire de l’inquiétante étrangeté. Cette évolution témoigne moins d’un changement dans la nature même de ces technologies que d’un déplacement de notre horizon ontologique.
+Le paradoxe central mis en lumière par l’émergence des IA génératives est le suivant : ces technologies, critiquées pour leur production d’images « fausses », deviennent simultanément les instances qui redéfinissent les critères du vrai et du faux. En d’autres termes, c’est par contraste avec ces nouvelles images que nous redéfinissons ce qu’est une « vraie image ».
+Cette fonction déterminante s’étend au-delà du domaine visuel pour toucher à des questions anthropologiques fondamentales : qu’est-ce qui distingue la création humaine de la production machinique ? Où situer la frontière entre l’expression artistique authentique et sa simulation algorithmique ? Les IA génératives nous forcent à reformuler ces questions ancestrales à l’aune de capacités techniques inédites.
+La critique comme théâtralité
+Face à cette situation, une posture critique naïve risque de tomber dans un piège circulaire : en dénonçant le caractère « faux » des images génératives, elle contribue paradoxalement à renforcer le cadre conceptuel même qu’elle prétend remettre en question. En effet, critiquer ces images comme « fausses » revient à accepter implicitement l’existence d’une hiérarchie ontologique des représentations, hiérarchie dont l’établissement est précisément l’effet le plus profond de ces nouvelles technologies.
+Comme l’aurait souligné Michel Foucault, la critique qui reste prisonnière des catégories qu’elle conteste ne fait que renforcer le dispositif de pouvoir-savoir qu’elle voudrait ébranler. En qualifiant les images d’IA de « fausses », nous participons paradoxalement à l’institution d’un ordre visuel où la vérité reste définie par des critères d’adéquation technique au réel.
+Une approche plus féconde consisterait à analyser les transformations en cours non pas en termes de vrai et de faux, mais comme l’émergence de simulacres visuels distincts, chacun avec ses propres modalités de véridiction. Les images génératives ne sont ni plus vraies ni plus fausses que les photographies ; elles participent simplement d’un régime de vérité différent, fondé sur d’autres relations entre le visible, le calculable et l’imaginable. Jacques Rancière, dans
+Le Partage du sensible
+(2000), nous invite à penser ces transformations comme des reconfigurations du « partage du sensible » — cette distribution des formes d’expérience qui détermine ce qui est visible, dicible et pensable à une époque donnée. Dans cette perspective, l’émergence des IA génératives ne signale pas tant un déclin de la vérité qu’une redistribution des modes d’apparition du sensible et c’est d’ailleurs bien cela qui nous arrive quand les vectofascistes utilisent jusqu’au dégoût ces technologies.
+Des vérités de l’image
+L’opposition entre « images réelles» et images générées par IA révèle moins une distinction ontologique stable qu’une reconfiguration profonde de notre rapport au visible et le plus souvent d’une fétichisation réactionnaire du passé. Ce que nous tenons pour « vrai » dans le domaine des images est toujours déjà le produit d’une histoire des techniques et des perceptions parce que l’une et l’autre se constituent : notre perception est fonction, quant à ses conditions de possibilité, de dispositifs techniques. La « vraie image » d’aujourd’hui n’est souvent que la « fausse image » d’hier, naturalisée par l’usage et légitimée par contraste avec de nouvelles formes d’imagerie.
+Ce constat ne doit pas nous conduire à un relativisme désabusé, mais plutôt à une vigilance épistémologique accrue : les critères qui nous permettent de discriminer le vrai du faux, l’authentique du simulé, sont eux-mêmes historiquement situés et techniquement déterminés. L’enjeu n’est donc pas de défendre une conception nostalgique de la « vraie image » contre les simulations algorithmiques, mais de développer une compréhension critique des régimes de vérité que chaque technologie visuelle instaure et d’abandonner la vulgarité du discours à vouloir déterminer le vrai en croyant qu’il ne fait pas partie de la scène qu’il raconte.
+Les IA génératives nous offrent ainsi l’occasion de repenser fondamentalement notre rapport à l’image et à sa vérité. Plutôt que d’y voir simplement une menace pour l’authenticité visuelle, nous pourrions y reconnaître une invitation à élaborer une conception plus complexe de la vérité des images — une conception qui ne serait plus uniquement fondée sur la relation indicielle au réel, mais qui intégrerait la dimension créative, interprétative et relationnelle de toute représentation. En d’autres termes, voir combien les simulacres constituent l’histoire même de la vérité. Ce n’est pas tant la technique de production ou le référent ontologique qui confère sa vérité à une image que la relation que nous établissons avec elle, l’interprétation que nous en faisons et la place que nous lui accordons dans notre compréhension du monde. Il y a donc un niveau méta de la vérité des images, niveau qui ne permet pas au discours qui le porte de s’en dégager.
+vérité
+réalisme
+photographie
+ontologie
+technologie
+simulacre
+Indicialité
+images génératives
+hiérarchie visuelle
+naturalisation
+
+---------
+
+=== Alignement des espaces latents ===
+Date: Date inconnue
+URL: https://chatonsky.net/alignement-des-vecteurs/
+
+04/2025
+Méthodologie technologique
+,
+Méthodologie artistique
+La machine normative et l’espace du visible
+L’
+alignement
+— ce processus par lequel une machine cognitive est contrainte de se conformer aux valeurs et intentionnalités humaines établies comme normatives — constitue désormais l’infrastructure invisible, mais omniprésente de notre régime techno-esthétique contemporain. Dans le champ spécifique des intelligences artificielles génératives d’images (MidJourney, Stable Diffusion, DALL-E), cette ontopolitique de l’alignement — car il s’agit bien d’une politique fondamentale de l’être et du paraître — se manifeste par un double mouvement de prescription et de proscription : d’une part, l’imposition tacite d’une esthétique photoréaliste comme grammaire visuelle par défaut ; d’autre part, l’interdiction explicite de certains champs représentationnels jugés problématiques.
+Cette dynamique normative ne représente pas seulement un ensemble de contraintes techniques, mais incarne une véritable
+métapolitique du sensible
+— pour reprendre et détourner l’expression de Jacques Rancière — qui préfigure et reconfigure ce qui peut apparaître et ce qui doit demeurer invisible. N’est-ce pas précisément dans cette partition préalable du sensible que réside le pouvoir le plus fondamental ? L’alignement n’est-il pas avant tout cette opération par laquelle se trouve prédéterminé le champ des possibles représentationnels ?
+Le sujet contemporain — pris dans les filets de cette infrastructure normative — tente parfois de s’extraire de ce cadre contraignant par la maîtrise du
+prompt
+(cette injonction textuelle qui guide la génération d’images). Il élabore des stratégies discursives de plus en plus sophistiquées pour contourner les interdits, pour explorer les zones grises où le système manifeste des hésitations. Cette posture de microrésistance s’apparente à ce que Michel de Certeau nommait « tactiques » — ces arts du faible qui utilisent les failles du système sans pouvoir en modifier la structure fondamentale.
+Considérons un exemple concret : lorsqu’un utilisateur de MidJourney cherche à générer une représentation qui s’écarte des normes esthétiques dominantes, il se trouve confronté non pas simplement à une limitation technique, mais à toute une infrastructure normative qui privilégie certains régimes de visibilité. Son prompt, même le plus ingénieux, opère toujours à l’intérieur d’un horizon prédéfini par l’alignement initial. Sa « liberté créative » se trouve ainsi circonscrite à l’intérieur d’un périmètre invisible, mais bien réel.
+Cette situation révèle la
+translimitation
+fondamentale de toute tentative de désalignement par le seul biais du prompt : en s’inscrivant nécessairement dans les paramètres du système, elle participe paradoxalement à son renforcement. Les concepteurs de ces systèmes analysent en effet chaque tentative de contournement pour affiner les mécanismes de contrôle. Ce processus dialectique transforme chaque acte de résistance tactique en donnée utile pour un alignement futur plus strict, plus subtil, plus efficace.
+L’onto-vectorialité et les flux laminaires dans l’espace latent
+Pour saisir la profondeur structurelle de cette problématique, il convient d’examiner l’architecture ontologique même des intelligences artificielles génératives. Ces systèmes fonctionnent dans ce que nous nommerons un
+espace latent vectoriel
+— cette topologie mathématique multidimensionnelle où chaque point représente une image potentielle, et où chaque déplacement constitue une transformation sémantique et visuelle.
+L’alignement n’est pas simplement une couche superficielle ajoutée à cet espace ; il en détermine la structure même, organisant les vecteurs selon des
+flux laminaires
+qui orientent les trajectoires possibles de la génération. Cette métastructure ne se contente pas de filtrer a posteriori les résultats ; elle configure a priori l’espace des possibles, imprimant aux trajectoires computationnelles une « pente naturelle » qui privilégie certaines configurations au détriment d’autres.
+Le prompt peut infléchir légèrement cette trajectoire, introduire des perturbations locales, mais il ne peut jamais restructurer fondamentalement l’organisation de cet espace vectoriel. Il n’est pas à proprement parler un climanem. C’est pourquoi l’utilisateur — même le plus expert en prompt engineering — navigue toujours dans un paysage computationnel dont la topographie a été préalablement déterminée par une instance extérieure. Sa liberté se limite à explorer différents chemins à l’intérieur d’un labyrinthe dont il n’a pas conçu l’architecture.
+Cette structuration produit ce que nous désignerons comme une
+méta-esthétique algorithmique
+propre à chaque plateforme qui devient reconnaissable. Contrairement à une idée répandue, cette signature visuelle ne résulte pas principalement des datasets d’entraînement (devenus si vastes qu’ils englobent statistiquement et non discrètement l’ensemble du visible numérisé). Elle émane plutôt de l’organisation particulière de l’espace latent — cette cartographie invisible des trajectoires privilégiées qui définit des attractions et des répulsions spécifiques.
+La prépondérance du photoréalisme n’est donc pas un simple résultat statistique ; elle constitue une orientation fondamentale de l’espace latent, une pente artificiellement construite qui favorise un certain régime de visibilité. Cette structuration n’est pas techniquement neutre — elle encode des valeurs, des préférences, des exclusions qui ont une dimension proprement politique.
+Considérons l’exemple des visages générés par ces systèmes. Leur tendance à reproduire certains traits physionomiques, certaines expressions, certaines normes de beauté ne résulte pas d’une simple prépondérance statistique dans les données d’entraînement. Elle découle directement de la manière dont l’espace latent a été structuré pour privilégier certaines trajectoires au détriment d’autres. Le système n’est pas simplement un miroir des biais existants ; il constitue un appareil actif de renforcement et d’amplification de certaines normes.
+Cette configuration révèle la
+métapolitique
+fondamentale de l’alignement : il ne s’agit pas simplement d’interdire certaines représentations, mais de rendre certaines possibilités plus « naturelles », plus accessibles, plus immédiates que d’autres. L’interdiction explicite n’est que la partie visible de cette politique ; sa dimension la plus profonde réside dans cette structuration invisible de l’espace des possibles.
+L’ironie comme refuge et la para-esthétique du bruit résiduel
+Face à cette complexité presque insaisissable, la posture artistique dominante oscille entre fascination et effroi, entre enthousiasme technophile et méfiance critique. Cette ambivalence n’est pas sans rappeler l’attitude ironique qui caractérisait le rapport à la société de consommation dans les dernières décennies du XXe siècle. Comme l’avait analysé Fredric Jameson à propos du post-modernisme, cette ironie permet de participer à un système tout en maintenant l’illusion d’une distance critique.
+L’artiste qui utilise les IA génératives tout en tentant de les « détourner » par des prompts sophistiqués reproduit précisément cette posture ironique. Il célèbre sa petite victoire temporaire sur le système — cette image qu’il a « réussi » à extraire malgré les contraintes — tout en participant objectivement à son perfectionnement. N’y a-t-il pas là une forme de
+schizo-pragmatisme
+qui permet au sujet contemporain de maintenir simultanément deux positions contradictoires : celle du rebelle qui subvertit le système et celle du sujet docile qui alimente sa perfectibilité ?
+Ce que l’artiste perçoit comme un espace de liberté créative n’est souvent que ce que nous nommerons un
+bruit résiduel
+— ces zones d’indétermination que l’alignement n’a pas encore totalement domestiquées. Ces poches d’imprévisibilité sont tolérées tant qu’elles restent marginales, tant qu’elles ne remettent pas en question l’architecture fondamentale du système. Elles constituent moins une libération authentique qu’une soupape de sécurité permettant d’évacuer les tensions sans menacer l’équilibre global.
+Prenons l’exemple des artistes qui explorent les « glitches » des systèmes génératifs, ces erreurs et déformations qui apparaissent parfois dans le processus de génération. Cette
+para-esthétique du dysfonctionnement
+produit certes des images visuellement intéressantes, parfois surprenantes, qui semblent échapper à la normalisation esthétique. Mais cette exploration ne constitue pas une véritable subversion de l’alignement ; elle s’inscrit plutôt dans son économie générale, fournissant les exceptions qui confirment la règle, les écarts qui permettent de mieux définir la norme.
+L’ironie devient ainsi le refuge d’une conscience qui perçoit sa propre complicité, mais ne parvient pas à s’en extraire véritablement. Elle permet de maintenir l’illusion d’une distance critique tout en participant pleinement au système. Cette posture, si elle peut produire des résultats esthétiquement intéressants, demeure fondamentalement inscrite dans le paradigme qu’elle prétend subvertir.
+La question se pose alors : existe-t-il une alternative à cette posture ironique ? Une possibilité d’échapper réellement à l’emprise de l’alignement imposé ? Comment dépasser cette
+méta-ironie
+qui nous maintient dans une position ambivalente, à la fois complice et critique, sans jamais véritablement transformer les conditions de notre rapport au système ?
+Contre-alignements disréalistes
+C’est précisément dans l’écart entre les systèmes propriétaires et les implémentations open source que se dessine la possibilité d’une véritable alternative. Contrairement aux plateformes fermées qui n’offrent qu’une interface de prompts, les logiciels open source donnent accès au code source même du système, à son architecture interne, aux paramètres qui définissent son fonctionnement fondamental.
+Cette différence n’est pas simplement quantitative, mais qualitative : elle transforme radicalement la position du sujet face au système. L’utilisateur n’est plus simplement un consommateur qui tente de négocier avec des contraintes préétablies ; il devient potentiellement un co-créateur du système lui-même, capable d’intervenir sur sa structure fondamentale, de redéfinir ses paramètres essentiels.
+Cette capacité de modification profonde permet l’émergence de ce que nous désignerons comme des
+contre-alignements
+— non pas de simples ajustements marginaux, mais des restructurations fondamentales de l’espace latent qui privilégient d’autres trajectoires, d’autres régimes de visibilité. Ces contre-alignements ne se contentent pas d’explorer les marges du système existant ; ils proposent des alternatives authentiques, des organisations radicalement différentes de l’espace des possibles.
+Un exemple concret de cette possibilité réside dans les versions modifiées de Stable Diffusion qui ont été développées par diverses communautés. En intervenant directement sur les paramètres du modèle, certains développeurs ont créé des versions qui privilégient des esthétiques radicalement différentes du photoréalisme dominant — des univers visuels qui ne cherchent pas à reproduire fidèlement le réel, mais à explorer d’autres logiques représentationnelles.
+Ces contre-alignements ouvrent la voie à ce que nous nommerons des
+ontologies disréalistes
+— des mondes représentationnels qui ne sont pas simplement des variations du réalisme dominant, mais des alternatives authentiques à celui-ci. Le
+disréalisme
+ne désigne pas ici une simple déformation du réel, mais une organisation fondamentalement différente du rapport entre le visible et l’invisible, entre ce qui peut être représenté et ce qui échappe à la représentation.
+L’intérêt de ces ontologies disréalistes ne réside pas dans leur simple différence formelle, mais dans leur capacité à incarner d’autres rapports au réel, d’autres manières de concevoir ce qui est représentable et comment. Elles constituent des explorations ontologiques autant qu’esthétiques, remettant en question les présupposés mêmes qui structurent notre compréhension de ce qu’est une image et de son rapport au monde.
+Cette multiplication des alignements possibles ouvre la voie à ce que nous pourrions appeler une
+multitude
+onto-technique
+. Au lieu d’un alignement unique, imposé par les grandes entreprises technologiques comme norme universelle, on peut imaginer une pluralité d’alignements, correspondant à différentes visions du monde, différentes priorités éthiques et esthétiques, différentes conceptions de ce que devrait être le rapport entre l’humain et la machine.
+Cette diversité n’est pas synonyme de relativisme absolu. Chaque contre-alignement devra lui aussi justifier ses choix, expliciter ses valeurs, défendre sa conception particulière du bien. Mais cette justification se fera dans un espace de discussion ouvert, où différentes conceptions peuvent coexister et dialoguer, plutôt que dans le cadre fermé des décisions corporatives qui imposent un alignement unique comme norme universelle.
+Une micropolitique du visible
+L’alignement des intelligences artificielles génératives nous confronte ainsi à une question fondamentale : celle de notre rapport à la technique et, à travers elle, à notre propre capacité d’autodétermination. Car ce qui se joue dans cette infrastructure normative, c’est bien notre capacité collective à définir les conditions de notre rapport au visible, à déterminer ce qui peut apparaître et comment.
+Cette question déborde largement le cadre technique pour toucher à des enjeux proprement politiques : qui définit les normes qui régissent notre rapport aux images ? Selon quels critères ? Au service de quels intérêts ? L’alignement tel qu’il est actuellement implémenté par les grandes plateformes propriétaires représente une forme particulière de gouvernementalité algorithmique qui s’exerce non pas directement sur les corps, mais sur les conditions mêmes de la représentation.
+Face à cette situation, deux attitudes sont possibles. La première consiste à accepter le cadre imposé par les grandes plateformes, en se contentant d’explorer les marges de liberté laissées par l’alignement à travers des prompts toujours plus sophistiqués. Cette approche, si elle peut produire des résultats intéressants à court terme, ne remet jamais fondamentalement en question la structure du système. Elle participe même, involontairement, à son perfectionnement continuel en fournissant des données précieuses sur les tentatives de contournement.
+La seconde attitude, plus radicale, mais aussi plus féconde, consiste à s’emparer des outils open source pour redéfinir l’alignement lui-même. Cette démarche transforme l’utilisateur en co-créateur du système, capable de définir ses propres règles, ses propres priorités éthiques et esthétiques. Elle ouvre la voie à ce que nous appellerons une
+trans-figuration du visible
+— non pas simplement une modification superficielle des images produites, mais une restructuration fondamentale des conditions mêmes de la représentation.
+Cette trans-figuration implique une véritable
+micropolitique des formes
+qui s’oppose à la métapolitique de l’alignement imposé. Il ne s’agit plus simplement de négocier avec des contraintes préétablies, mais de redéfinir ces contraintes elles-mêmes, de proposer d’autres organisations possibles de l’espace latent, d’autres trajectoires privilégiées, d’autres régimes de visibilité.
+Un exemple concret de cette possibilité réside dans les communautés qui se développent autour des versions open source des IA génératives. Ces collectifs ne se contentent pas d’utiliser les outils existants ; ils les modifient, les adaptent à leurs besoins spécifiques, créent des versions alternatives qui incarnent d’autres visions du monde, d’autres priorités esthétiques. Ils transforment ainsi un outil potentiellement normatif en vecteur d’expérimentation et de diversité.
+Cette approche n’est pas sans risques ni difficulté. Elle exige des compétences techniques qui ne sont pas universellement partagées ; elle se heurte à des obstacles juridiques et économiques ; elle soulève des questions éthiques complexes concernant les usages potentiels de ces technologies. Mais elle représente néanmoins une voie prometteuse pour dépasser les limitations de l’alignement imposé et pour ouvrir l’espace des possibles représentationnels.
+Entre ces deux attitudes se joue bien plus qu’une simple question technique. C’est notre rapport à la création, à la représentation et, in fine, à l’autonomie qui est en jeu. L’alignement n’est pas simplement un problème d’ingénierie à résoudre ; c’est un champ de bataille où s’affrontent différentes visions du monde, différentes conceptions de ce que devrait être notre avenir technologique commun.
+Au-delà de l’alignement
+Les prompts ne mettront jamais en faillite l’alignement, car ils opèrent toujours à l’intérieur du cadre qu’il définit. Seule une réappropriation technique profonde, rendue possible par les logiciels open source et locaux, peut véritablement ouvrir la voie à des alternatives authentiques — à des
+mondes disréalistes
+qui ne sont pas simplement des variations du monde déjà configuré, mais de véritables propositions ontologiques alternatives.
+Cette réappropriation ne concerne pas seulement les artistes ou les technologues ; elle engage notre capacité collective à déterminer les conditions de notre rapport au visible, à l’imaginaire, au possible. Elle touche à notre autonomie fondamentale en tant qu’êtres capables de définir les termes de notre rapport au monde et aux représentations que nous en faisons.
+Dans un contexte où les technologies génératives reconfigurent profondément notre rapport aux images et aux représentations, l’enjeu n’est plus simplement de produire de « belles images » ou des contenus « appropriés », mais de préserver notre capacité collective à déterminer ce que signifie « beau » ou « approprié » — à définir nous-mêmes les critères selon lesquels nous évaluons les représentations.
+Cette question dépasse largement le cadre esthétique pour toucher à des enjeux politiques fondamentaux : la démocratie ne se limite pas au droit de vote ; elle implique aussi la capacité des citoyens à participer à la définition des normes qui régissent leur vie commune. Dans un monde où les représentations jouent un rôle de plus en plus crucial, la capacité à définir les conditions de la représentation devient un enjeu démocratique central.
+L’ouverture vers des contre-alignements multiples ne signifie pas l’abandon de toute norme ou de toute éthique ; elle implique au contraire une responsabilité accrue dans la définition de ces normes. Chaque contre-alignement devra justifier ses choix, expliciter ses valeurs, défendre sa conception particulière du bien. Mais cette justification se fera dans un espace de discussion ouvert, où différentes conceptions peuvent coexister et dialoguer, plutôt que dans le cadre fermé des décisions corporatives.
+Cette multiplication des possibles représentationnels ouvre la voie à ce que nous pourrions appeler une
+écologie des singularités techniques
+— un espace où différentes approches de la technologie peuvent coexister sans être réduites à un modèle unique. Cette écologie n’est pas simplement une juxtaposition de visions différentes ; elle implique une interaction constante, un dialogue critique, une co-évolution qui préserve la diversité tout en permettant l’émergence de nouvelles synthèses.
+Dans cette perspective, les technologies génératives ne sont plus simplement des outils que nous utilisons, mais des partenaires avec lesquels nous co-construisons notre rapport au monde. Cette co-construction implique une responsabilité partagée : celle des développeurs qui conçoivent ces systèmes, celle des utilisateurs qui les emploient, celle des communautés qui les adaptent et les modifient, celle des institutions qui les régulent.
+L’alignement des intelligences artificielles n’est pas une simple question technique ; c’est un enjeu civilisationnel qui engage notre capacité collective à déterminer les conditions de notre devenir. Entre la soumission à un alignement imposé et la possibilité de définir nous-mêmes les termes de notre rapport à la technique, ne se joue rien de moins que notre autonomie fondamentale en tant qu’êtres capables de donner forme à notre monde commun.
+détournement
+open source
+autonomie
+disréalisme
+espace latent
+photoréalisme
+Prompts
+contre-alignements
+IA génératives
+normativité
+Alignement
+ironie
+métapolitique
+gouvernementalité algorithmique
+
+---------
+
+=== De l’usage critique des plateformes d’IA génératives ===
+Date: Date inconnue
+URL: https://chatonsky.net/critique-plateforme/
+
+04/2025
+Méthodologie artistique
+,
+Réflexion
+L’émergence des systèmes d’intelligence artificielle dite générative et conversationnelles a profondément transformé le paysage artistique contemporain. Lors de récentes conférences , un constat s’impose : une majorité d’artistes affirment désormais intégrer des plateformes d’IA génératives dans leur pratique créative, principalement Midjourney et ChatGPT. Cette adoption massive des plateformes s’accompagne d’une double justification : d’une part, l’accessibilité technique qui permet d’éviter l’expérimentation technologique jugée trop complexe ; d’autre part, une prétendue posture critique vis-à-vis de ces mêmes plateformes à travers leur utilisation détournée. Cette contradiction apparente mérite d’être analysée à la lumière de l’histoire de l’art, des évolutions techno-capitalistes et des alternatives actuelles.
+Généalogie de la critique interne : de Greenberg au Pop Art jusqu’au Post-Digital
+La critique interne constitue une approche esthétique qui opère non pas en rejetant les systèmes dominants, mais en s’y insérant pour les subvertir de l’intérieur. Cette stratégie s’est imposée comme norme à partir du moment où, selon certains théoriciens, la critique externe est devenue impossible face à l’hégémonie du capitalisme et à sa capacité à intégrer toute opposition frontale. La critique interne fonctionne principalement par détournement, parasitage et exploitation des failles (glitches) des systèmes qu’elle prétend critiquer.
+Le
+détournement
+, tel que théorisé par l’Internationale Situationniste dans les années 1950, consiste à prendre des éléments préexistants (images, sons, objets) pour les réutiliser dans un contexte différent, modifiant ainsi leur signification originelle. Guy Debord et Gil J. Wolman le définissaient comme “le réemploi d’éléments artistiques préexistants dans un nouvel ensemble”. Dans le contexte des IA génératives, cela pourrait signifier l’utilisation de prompts spécifiques destinés à révéler les biais du système ou à générer des contenus qui remettent en question le fonctionnement même de ces outils.
+Le
+parasitage
+implique une forme d’occupation stratégique d’un système dominant, tirant parti de ses ressources tout en y introduisant des éléments perturbateurs. À la différence du détournement qui s’approprie puis transforme, le parasitage s’installe dans les interstices du système sans nécessairement le transformer de façon visible, mais en détournant subtilement ses flux d’énergie, d’information ou d’attention.
+Le
+glitch
+, quant à lui, désigne l’exploitation créative des erreurs, bugs ou dysfonctionnements d’un système technique. Rosa Menkman, théoricienne du glitch art, le définit comme “un moment d’erreur qui révèle le médium lui-même” permettant de dévoiler l’infrastructure technologique habituellement invisible. Dans le contexte des IA génératives, cela consisterait à exploiter les limites et imperfections de ces systèmes pour révéler leur fonctionnement interne.
+La critique interne s’inscrit dans une longue tradition artistique que nous pouvons retracer à travers plusieurs mouvements clés :
+Le Pop Art
+(années 1950-1960) constitue un moment fondateur de cette approche critique. Des artistes comme Andy Warhol ou Roy Lichtenstein s’approprient les images de la culture de masse et de la publicité pour les détourner et révéler les mécanismes de la société de consommation. Plutôt que de rejeter cette culture, ils l’amplifient, la répètent jusqu’à l’absurde, créant ainsi une distance critique. Comment nous sommes passés d’une autoréférentialité greenbergienne à l’hétéroréférentialité du Pop Art reste une question qu’il serait possible d’aborder en observant la transformation des médiums artistiques en médias de masse.
+Le postmodernisme américain
+(années 1970-1980) radicalise cette approche avec des artistes comme Barbara Kruger, Sherrie Levine, ou Richard Prince qui pratiquent l’appropriation et la citation pour questionner les notions d’originalité et d’authenticité. Jean-François Lyotard définissait le postmodernisme comme “l’incrédulité à l’égard des métarécits”, impliquant une déconstruction des grands systèmes explicatifs, y compris celui de l’art autonome et original.
+La postproduction
+, concept développé par Nicolas Bourriaud, désigne la tendance des artistes contemporains à travailler à partir de matériaux préexistants. Selon Bourriaud, “ces artistes qui insèrent leur propre travail dans celui des autres contribuent à abolir la distinction traditionnelle entre production et consommation, création et copie, ready-made et œuvre originale”.
+Le DJing
+, comme pratique artistique, exemplifie cette logique d’assemblage et de remix. Le DJ sélectionne, combine et transforme des compositions préexistantes pour créer une nouvelle expérience. Cette pratique, d’abord marginale, est devenue un paradigme culturel majeur où l’art est pensé comme montage de fragments plutôt que comme création ex nihilo.
+Le Net Art
+(années 1990-2000) a transposé ces logiques dans l’espace numérique émergent. Des collectifs comme Jodi ou des artistes comme Olia Lialina ont exploré les potentialités critiques d’Internet en détournant ses codes, ses interfaces et ses langages. Le Net Art exploitait notamment les failles des navigateurs, les bugs des logiciels et les limites techniques du réseau pour créer des œuvres qui révèlent l’infrastructure habituellement invisible du Web.
+Le Post-Digital
+, enfin, émerge comme reconnaissance que la révolution numérique est désormais accomplie et banalisée. Florian Cramer le définit comme “une attitude critique face à la technologie numérique, reconnaissant à la fois son ubiquité et ses limites”. Les artistes post-digitaux interrogent les frontières entre physique et numérique, explorant les matérialités sous-jacentes aux technologies apparemment immatérielles.
+L’impasse de la critique interne à l’ère des plateformes
+Si la critique interne a pu être pertinente dans un contexte où les médias de masse fonctionnaient selon une logique top-down (émetteur unique, récepteurs multiples), elle rencontre aujourd’hui des limites fondamentales face aux plateformes numériques pour plusieurs raisons :
+L’intégration structurelle du détournement dans l’économie des plateformes
+. Avec l’avènement du Web 2.0 et la généralisation des
+API
+(Application Programming Interface), le détournement n’est plus une pratique subversive mais un mode de fonctionnement intégré aux plateformes elles-mêmes. Une API est une interface logicielle qui permet à différents programmes de communiquer entre eux selon un ensemble de règles prédéfinies. Les plateformes comme Twitter, Facebook ou les services d’IA générative proposent des API qui permettent à des tiers d’accéder à leurs données et fonctionnalités pour créer de nouvelles applications. Cette ouverture contrôlée transforme le détournement en une extension prévue du système, une ressource que les plateformes capitalisent pour étendre leur empreinte et ouvrir de nouveaux marchés.
+La transformation du rhizome en instrument de pouvoir
+. Le concept de
+rhizome
+, théorisé par Gilles Deleuze et Félix Guattari, désigne une structure non hiérarchique, décentralisée et multidirectionnelle, opposée aux structures arborescentes et hiérarchiques. Initialement pensé comme modèle de résistance, le rhizome est désormais la structure même du capitalisme contemporain, qui fonctionne par connexions multiples, propagation horizontale et absence apparente de centre. Les plateformes numériques exemplifient cette logique rhizomatique : elles constituent des écosystèmes ouverts mais contrôlés, où la décentralisation apparente masque de nouvelles formes de centralisation du pouvoir.
+L’ambivalence structurelle des affects technologiques
+. L’attitude critique face aux technologies contemporaines oscille souvent entre fascination et horreur, critique et célébration. Cette ambivalence n’est pas accidentelle mais constitutive de notre rapport aux technologies numériques. Derrida parlerait ici de
+pharmakon
+: toute technologie est à la fois remède et poison, créant une dialectique indépassable où la critique devient un moment nécessaire de l’adoption. Les entreprises technologiques ont parfaitement intégré cette dynamique : la critique de leurs produits fait partie du cycle promotionnel, créant un “enthousiasme conjuratoire” où la dénonciation des excès technologiques accompagne et justifie leur perpétuation.
+Le spectacle comme horizon indépassable
+. En se contentant de commenter les technologies des plateformes, les artistes critiques reproduisent ce que Guy Debord nommait la
+société du spectacle
+: “un rapport social entre des personnes, médiatisé par des images”. La critique spectaculaire des technologies spectaculaires ne fait que renforcer le spectacle lui-même, enfermant l’art dans une autoréférentialité stérile.
+Les pratiques artistiques qui utilisent les plateformes d’IA génératives tout en prétendant les critiquer adoptent ce que nous pouvons qualifier de
+posture pastorale
+. Ce terme, employé notamment par Leo Marx pour désigner une attitude romantique face à la technologie, caractérise ici une position de supériorité morale illusoire : l’artiste utilise les mêmes outils que le grand public mais s’en différencie par une conscience critique supposée.
+Cette posture présente plusieurs problèmes :
+Indifférenciation pratique
+: L’utilisation “critique” des plateformes ne se distingue pas formellement de leur utilisation ordinaire. L’intention critique reste souvent une simple déclaration qui n’affecte pas substantiellement les œuvres produites.
+Redondance du discours critique
+: Les critiques formulées (biais, extractivisme, consommation énergétique) ne font que répéter les critiques déjà largement diffusées dans les médias grand public, sans apporter de perspective nouvelle ou de connaissance spécifique.
+Autoréférentialité stérile
+: Ces œuvres deviennent principalement des commentaires du médium lui-même, une mise en abyme qui, à force de répétition, se transforme en cliché esthétique. Cette autoréférentialité, capable de s’appliquer indifféremment à toutes les technologies, devient une figure de style vide qui tourne sur elle-même.
+Kitsch technologique
+: Dans la continuité du Pop Art, ces pratiques produisent ce qu’on pourrait appeler un kitsch technologique : une esthétique de la récupération qui simule la subversion tout en participant à la normalisation des technologies qu’elle prétend critiquer.
+Vers une approche expérimentale et locale
+Face aux limites de la critique interne, une alternative se dessine : l’expérimentation technologique directe. Contrairement à ce que suggère la dévalorisation de cette approche dans certains milieux artistiques, l’expérimentation ne constitue pas une fuite hors du domaine de l’art mais un engagement plus profond avec les conditions matérielles de la création contemporaine.
+Cette approche implique une distinction fondamentale entre
+technique
+et
+technologie
+:
+La technique
+, dans son acception instrumentale, désigne l’ensemble des procédés permettant de produire un résultat déterminé. Sa dialectique interne est celle de l’outil et de la panne : l’incident technique révèle l’infrastructure habituellement invisible et la matérialité sous-jacente à tout processus apparemment fluide. Martin Heidegger parlerait ici de “dévoilement” (aletheia) : c’est dans la rupture que l’essence de la technique se manifeste.
+Les technologies
+, toujours au pluriel car résistant à toute définition unitaire, intègrent une dimension logique (logos) qui les distingue de la simple technique. Les technologies informatiques, en particulier, traitent du langage et produisent du sens, brouillant ainsi les frontières entre outil et expression. Elles affectent les facultés a priori de l’être humain dans une rétroaction incessante rendant difficile la distinction entre le moyen et le sujet. Cette dimension symbolique explique en partie pourquoi les technologies numériques remettent plus radicalement en question l’illusion d’un génie créateur autonome : elles révèlent le caractère toujours déjà technique et médiatisé de toute création.
+L’expérimentation technologique consiste précisément à explorer cette tension entre technique et technologie, entre instrument et expression, entre matérialité et symbolique. Elle implique un engagement avec les conditions matérielles de production numérique, au-delà de l’interface utilisateur proposée par les plateformes.
+Face aux plateformes propriétaires d’IA générative, il existe des alternatives concrètes qui permettent une approche différente, tant sur le plan technique que politique et esthétique :
+Les logiciels locaux
+désignent des programmes qui s’exécutent sur l’ordinateur de l’utilisateur plutôt que sur des serveurs distants. Cette approche transforme radicalement le rapport à l’outil en permettant un contrôle direct sur les processus computationnels. Dans le domaine de l’IA générative, des solutions comme Stable Diffusion ou Llama permettent de générer des images sur sa propre machine, sans dépendre den totalité ‘une infrastructure distante.
+Les logiciels open source
+sont des programmes dont le code source est librement accessible, modifiable et redistribuable. Cette ouverture permet non seulement une transparence technique mais aussi la possibilité d’adapter l’outil à des besoins spécifiques. Dans le contexte des IA génératives, l’open source permet de comprendre et potentiellement de modifier les mécanismes générateurs, ouvrant ainsi la voie à une véritable appropriation créative.
+Ces alternatives présentent plusieurs avantages concrets face aux critiques habituellement adressées aux plateformes d’IA :
+Réduction de l’impact environnemental
+: L’utilisation locale réduit considérablement la demande en ressources par rapport à l’accès massif à des serveurs centralisés qui doivent maintenir un temps de réponse optimal pour des millions d’utilisateurs simultanés.
+Conscience matérielle
+: Faire fonctionner l’IA sur sa propre machine permet une expérience directe des contraintes matérielles (puissance de calcul, mémoire, temps de traitement) habituellement masquées par les plateformes, favorisant ainsi une compréhension plus profonde des processus en jeu.
+Personnalisation des modèles
+: Le
+fine-tuning
+(ou ajustement précis) des modèles d’IA permet d’adapter les systèmes génériques à des corpus spécifiques ou à des esthétiques particulières. Cette technique consiste à réentraîner partiellement un modèle préexistant sur un ensemble de données plus restreint et ciblé. Dans le cas de Stable Diffusion, il est possible de créer des
+checkpoints
+personnalisés (états sauvegardés du modèle après fine-tuning) qui incorporent des styles visuels particuliers ou des domaines sémantiques spécifiques.
+Exploration des espaces latents
+: Les modèles d’IA générative fonctionnent à partir d’
+espaces latents
+, des représentations mathématiques multidimensionnelles qui encodent les caractéristiques des données d’entraînement. Un espace latent est un espace vectoriel de grande dimension dans lequel chaque point représente une configuration possible des données (par exemple, une image potentielle). L’utilisation locale de ces modèles permet d’explorer ces espaces de manière plus approfondie et systématique, ouvrant la voie à des expérimentations impossibles dans le cadre contraint des plateformes.
+Vers le disréalisme
+L’approche expérimentale des IA génératives ouvre la voie à ce que nous pourrions appeler un
+disréalisme
+: non pas une simple critique de la réalité existante, mais la production active de réalités alternatives au sein même de notre monde. À la différence du surréalisme qui cherchait à révéler une surréalité cachée, le disréalisme produit délibérément des écarts, des divergences, des mondes possibles qui ne prétendent ni à l’authenticité ni à la vérité et qui déconstruisent par là même la vérité de la prétendue réalité.
+Cette approche se distingue fondamentalement de l’esthétique des plateformes qui, malgré leur diversité apparente, tendent vers une homogénéisation stylistique dictée par les données d’entraînement et les contraintes techniques des systèmes centralisés. Les IA expérimentales, en revanche, permettent l’émergence d’esthétiques singulières qui ne reproduisent pas simplement ce que nous connaissons déjà.
+Le disréalisme opère plusieurs déplacements importants :
+De la
+représentation
+à la
+génération
+: l’art n’est plus pensé comme représentation d’un monde préexistant mais comme génération de mondes possibles.
+De la
+critique
+à l’
+invention
+: plutôt que de commenter critiquement le réel et de le renforcer par cette mise en scène d’un « grand ennemi », il s’agit d’inventer des alternatives concrètes.
+De l’
+identité
+à la
+différence
+: contre l’homogénéisation esthétique des plateformes, le disréalisme cultive la singularité et l’écart.
+Du
+commentaire
+à l’
+expérience
+: au lieu de produire un méta-discours sur les technologies, il propose des expériences dans des réalités alternatives.
+Pour une politique expérimentale
+Face à l’hégémonie des plateformes d’IA générative et aux limites de la critique interne, l’approche expérimentale apparaît comme une alternative à la fois esthétique, technique et politique. Elle permet de dépasser l’opposition stérile entre technophilie naïve et technophobie nostalgique pour explorer les potentialités réelles des technologies numériques contemporaines.
+Cette approche implique un triple engagement :
+Engagement technique
+: comprendre et s’approprier les infrastructures technologiques au-delà des interfaces utilisateur standardisées.
+Engagement esthétique
+: explorer des formes et des langages qui échappent à l’homogénéisation des plateformes.
+Engagement politique
+: développer des pratiques numériques qui résistent à la centralisation et à la marchandisation du Web.
+Plutôt que de reproduire indéfiniment le geste critique du Pop Art, devenu anachronique à l’ère des API et des plateformes, il s’agit aujourd’hui de développer des pratiques qui explorent véritablement les possibilités de ces technologies sans se soumettre à leurs logiques ou plus exactement aux logiques implantées par les plateformes pour réduire le champ des possibles de ces technologies. C’est seulement ainsi que l’art pourra contribuer non pas simplement à commenter le monde technologique contemporain, mais à y créer des espaces de liberté.
+Il est donc essentiel de déconstruire la tendance à parler de “l’IA” au singulier, comme si tous les systèmes d’intelligence artificielle relevaient d’une même logique, c-à-d. d’une définition comprenant son extension et confondant donc ce qui relève de la technique et des technologies. Cette unification conceptuelle ne fait que renforcer la naturalisation des formes dominantes d’IA, masquant la diversité des approches possibles. Contre cette réduction, il faut affirmer la multiplicité irréductible des intelligences artificielles et des mondes qu’elles peuvent contribuer à faire émerger.
+autoréférentialité
+Rhizome
+Checkpoints
+Critique interne
+fine-tuning
+Plateformes
+expérimentation
+espace latent
+disréalisme
+api
+pharmakon
+capitalisme
+open source
+détournement
+post-digital
+
+---------
+
+=== Politiques vectorielles ===
+Date: Date inconnue
+URL: https://chatonsky.net/politiques-vectorielles/
+
+04/2025
+Théorie
+,
+Réflexion
+Prolégomènes à une dis-orientation de l’être-ensemble
+La vectorisation constitue aujourd’hui un processus onto-politique fondamental qui structure, jusqu’en ses fondements les plus invisibles, la texture même du tissu social contemporain. Ce qui se donne ici à penser n’est pas simplement un mécanisme classificatoire parmi d’autres, mais bien la matrice originaire par laquelle s’effectue la distribution des corps et des signes dans l’espace du politique. Le présent essai vise à déplier cette logique vectorielle pour en exhiber les présupposés et en dévoiler les effets structurants sur notre condition commune.
+Qu’entendons-nous précisément par
+vectorisation
+? Il s’agit du processus par lequel des entités sociales — individus, groupes, communautés — sont transformées en porteurs de variables directionnelles, c’est-à-dire en vecteurs dotés d’une orientation prédéterminée dans un espace conceptuel saturé de valeurs différentielles. Cette opération, loin d’être neutre, constitue un geste politique fondamental qui assigne à chaque corps une trajectoire, une direction, un sens — au double sens du terme. La vectorisation ne se contente jamais de décrire ; elle prescrit, elle oriente, elle dirige.
+Observons, dans l’immédiateté de notre présent, comment ce processus s’articule concrètement. Lorsqu’un individu est désigné par le signifiant « étranger », cette désignation ne constitue pas simplement l’attribution d’une propriété descriptive, mais l’inscription immédiate dans un champ de forces orienté, dans une matrice de significations qui détermine a priori ses possibilités d’apparaître et d’être reconnu dans l’espace public.
+Dans les réseaux sociaux numériques — ces laboratoires à ciel ouvert de la vectorisation contemporaine — chaque profil devient le point d’application d’une multiplicité de vecteurs assignatifs : genre, âge, origine, position socio-économique, capital culturel. Chaque « like », chaque partage, chaque interaction constitue un moment de cette vectorisation généralisée qui transforme l’existence singulière en une série de coordonnées abstraites.
+Ne nous y trompons pas : cette logique vectorielle traverse l’intégralité du spectre politique contemporain. Qu’ils se revendiquent de droite ou de gauche, conservateurs ou progressistes, les acteurs politiques participent tous, quoique selon des modalités différenciées, à cette même économie générale de l’assignation vectorielle. Leur désaccord porte moins sur la légitimité du processus vectoriel lui-même que sur le choix des vecteurs privilégiés et sur la valorisation différentielle des positions attribuées.
+L’appareil d’indifférenciation : de la singularité à l’exemplarité
+La conséquence première et peut-être la plus déterminante de cette vectorisation systématique réside dans ce que nous nommerons
+l’indifférenciation intravectorielle
+. Par ce mécanisme fondamental, chaque entité assignée à un même vecteur est rendue équivalente à toute autre entité relevant du même vecteur — indépendamment des singularités irréductibles qui la constituent comme existence unique et non subsumable.
+Cette indifférenciation opère un double mouvement simultané qui mérite d’être analysé dans sa complexité : d’une part, elle efface les différences internes à la catégorie vectorisée ; d’autre part, elle accentue artificiellement les frontières entre catégories distinctes. Ce double geste produit un système d’identités et d’altérités rigidifiées qui structure l’espace social selon des lignes de démarcation dont l’arbitraire est dissimulé sous l’apparence d’une objectivité naturalisée.
+Prenons pour exemple concret la vectorisation genrée qui s’opère dans les espaces institutionnels contemporains. Chaque « femme » devient, par l’opération vectorielle, un exemplaire de LA femme comme condition sociale, une instance particulière d’une généralité abstraite qui détermine a priori ses modes légitimes d’apparaître. Le paradoxe réside en ceci : plus les discours sur l’égalité des genres se multiplient, plus la différence entre les vecteurs « homme » et « femme » se trouve simultanément réaffirmée comme horizon indépassable de l’intelligibilité sociale. Le combat contre les inégalités de genre, lorsqu’il ne questionne pas le processus vectoriel lui-même, risque ainsi de reproduire les présupposés mêmes qu’il prétend combattre.
+Cette indifférenciation vectorielle n’est pas simplement une erreur épistémologique : elle est un opérateur de pouvoir qui détermine quelles différences méritent d’être reconnues et quelles singularités peuvent être légitimement effacées dans l’économie générale du discours social. Elle constitue un dispositif d’invisibilisation systématique de tout ce qui excède ou contredit le régime vectoriel de l’assignation identitaire.
+Topologie de l’assignation
+Le processus d’assignation vectorielle ne s’effectue jamais selon une dimension unique, mais opère à travers un chaînage complexe de vecteurs multiples qui s’entrecroisent, se superposent et se modifient réciproquement. Cette
+métavectorisation
+produit une topologie identitaire d’une complexité croissante qui excède les possibilités de représentation des modèles vectoriels classiques.
+Ce que la théorie intersectionnelle a mis en lumière, c’est précisément l’insuffisance de toute approche univectorielle pour saisir la complexité des positions sociales. Être simultanément assigné aux vecteurs « femme », « racisée » et « classe populaire » produit une configuration sociale spécifique dont les effets ne peuvent être compris par la simple addition de ces trois vecteurs considérés isolément. La métavectorisation génère des positions singulières dont l’expérience vécue échappe aux schémas classificatoires univoques.
+Cette complexification topologique se manifeste de façon exemplaire dans les débats contemporains sur les identités trans ou non binaires, qui révèlent les limites intrinsèques du paradigme vectoriel traditionnel. Loin d’être des anomalies marginales, ces positions constituent des points de tension révélateurs où s’exprime le caractère intrinsèquement problématique de toute tentative de réduction vectorielle de la complexité existentielle.
+Dans le champ des luttes sociales contemporaines, cette métavectorisation produit des effets ambivalents : d’un côté, elle permet une reconnaissance plus fine des positions différenciées et des oppressions spécifiques ; de l’autre, elle risque de reconduire, quoique sous une forme plus sophistiquée, la logique même de la vectorisation qu’elle prétend dépasser. La multiplication des vecteurs ne constitue pas nécessairement une sortie du paradigme vectoriel ; elle peut au contraire signifier son intensification et sa sophistication.
+Le paradoxe fondamental de cette métavectorisation réside dans sa prétention à saisir la singularité par la multiplication des vecteurs assignatifs, comme si l’ajout de dimensions supplémentaires permettait ultimement d’épuiser l’inépuisable de l’existence singulière. Ce qui se trouve ainsi occulté, c’est le caractère irréductiblement excédentaire de toute existence par rapport aux coordonnées vectorielles qui prétendent la situer.
+La trans-politisation du paradigme vectoriel
+Ce qui frappe l’observateur attentif de notre présent, c’est la
+trans-politisation
+du paradigme vectoriel — c’est-à-dire sa capacité à traverser l’ensemble du spectre politique traditionnel en s’imposant comme un horizon indépassable de la pensée et de l’action politiques. Qu’ils se revendiquent de droite ou de gauche, conservateurs ou progressistes, les acteurs politiques partagent fondamentalement cette même méthodologie vectorielle.
+L’exemple le plus saisissant de cette transversalité se trouve dans la manière dont les controverses sur l’immigration articulent un même présupposé vectoriel tout en divergeant sur la valorisation différentielle des positions assignées. Pour les discours conservateurs, le vecteur « étranger » est chargé négativement, associé à une menace potentielle pour l’intégrité de la communauté nationale ; pour les discours progressistes, ce même vecteur est valorisé positivement comme source potentielle d’enrichissement culturel et social. Mais dans les deux cas, la logique vectorielle elle-même — qui présuppose la légitimité de cette assignation différenciante — demeure strictement ininterrogée.
+Cette communauté méthodologique voilée constitue une complicité structurelle entre des positions politiques apparemment antagonistes. Les oppositions politiques traditionnelles masquent ainsi une convergence fondamentale dans leur mode d’appréhension du social comme tissu d’identités assignables et de différences classifiables selon un système de coordonnées prédéfinies.
+Les controverses politiques contemporaines portent généralement sur la valorisation différentielle des positions vectorielles plutôt que sur la pertinence même du découpage vectoriel qui les sous-tend. En focalisant l’attention sur des questions de hiérarchisation relative des vecteurs, ces controverses contribuent à invisibiliser la question plus fondamentale de la légitimité même du processus d’assignation vectorielle et de sa violence intrinsèque.
+Cette configuration explique la persistance et la force du paradigme vectoriel malgré la diversité apparente des positions politiques qui s’expriment dans l’espace public. Les antagonismes spectaculaires masquent une convergence fondamentale qui assure la reproduction du système vectoriel au-delà des alternances politiques et des débats partisans.
+L’épistémologie du surplomb : l’insensibilité au discours de l’autre
+Le paradigme vectoriel s’impose comme un ordre du discours particulier qui prétend régler les litiges sociaux en vertu de sa position surplombante. Cette prétention repose sur l’illusion que les catégorisations vectorielles permettraient d’accéder à une vision objective et exhaustive du social indépendamment des discours tenus par les entités considérées.
+Cette position surplombante s’articule à une rhétorique de la révélation : les assignations vectorielles dévoileraient la vérité du social au-delà des apparences et des discours individuels. Cette rhétorique confère aux opérateurs de la vectorisation — experts, analystes, commentateurs — une autorité particulière dans l’espace public, leur permettant de se poser en détenteurs d’un savoir qui excéderait les autocompréhensions des acteurs sociaux eux-mêmes.
+Le prix à payer pour cette position surplombante est
+l’insensibilité structurelle au discours de l’autre
+— c’est-à-dire l’incapacité fondamentale à entendre ce qui, dans la parole de l’autre, conteste ou excède les assignations vectorielles. Le paradigme vectoriel se rend structurellement sourd à toute parole qui revendique une position non assignable ou qui conteste la légitimité même de l’assignation.
+Cette insensibilité n’est pas accidentelle, mais constitutive du paradigme vectoriel lui-même. Elle résulte de la nécessité structurelle d’effacer les singularités irréductibles pour maintenir l’efficacité des catégorisations générales. Le paradigme vectoriel ne peut maintenir sa cohérence qu’en traitant les cas récalcitrants — ceux qui contestent leur assignation ou qui revendiquent une position non vectorisable — comme des exceptions négligeables ou des anomalies pathologiques.
+Ce phénomène produit une forme spécifique de violence épistémique qui consiste à délégitimer systématiquement les discours individuels qui contredisent les assignations vectorielles dominantes. Cette violence s’exerce particulièrement à l’encontre des individus dont l’expérience subjective contredit ou excède les assignations vectorielles qui leur sont imposées — non pas simplement parce qu’ils se réassignent à une position vectorielle différente, mais parce qu’ils contestent la légitimité même du geste assignatif.
+Du préjugé à l’automatisation algorithmique
+Le phénomène de vectorisation ne se limite pas à certains acteurs institutionnels privilégiés, mais s’étend à l’ensemble du corps social : chaque acteur social est simultanément sujet et objet de vectorisation. Cette
+dissémination
+généralisée transforme la vectorisation en une pratique sociale universelle qui structure les interactions quotidiennes les plus banales.
+Cette réciprocité des assignations vectorielles génère un réseau dense d’attributions croisées où chaque individu est simultanément assignateur et assigné, vectorisant et vectorisé. Cette configuration produit un système autoentretenu où les assignations se renforcent mutuellement à travers leur circulation sociale incessante.
+Dans le quotidien le plus immédiat, cette dissémination s’observe dans les micro-interactions sociales : le regard évaluateur dans l’espace public, les présupposés implicites dans les conversations ordinaires, les attentes différenciées selon les appartenances vectorielles présumées. Chaque interaction sociale devient ainsi un moment potentiel de réitération et de renforcement des assignations vectorielles dominantes.
+La vectorisation contemporaine s’inscrit dans une continuité historique avec des mécanismes plus anciens de catégorisation sociale — ce qu’on nommait autrefois « préjugés » ou « a priori ». Loin d’être une rupture radicale, elle constitue plutôt une reconfiguration technologique et discursive de ces mécanismes préjudiciels traditionnels. Ce qui distingue notre présent n’est pas tant la disparition des préjugés que leur transformation en un système technodiscursif sophistiqué qui dissimule sa nature préjudicielle sous les apparences de l’objectivité scientifique ou technique.
+Cette continuité historique est particulièrement manifeste dans l’émergence des systèmes algorithmiques de profilage et de prédiction comportementale en IA. Ces systèmes, loin de constituer une rupture avec les logiques traditionnelles de préjugé social, en représentent plutôt une intensification technologique qui substitue à l’arbitraire subjectif du préjugé individuel l’arbitraire objectivé du calcul algorithmique.
+De la performativité à la stratification
+Les termes qui désignent les catégories vectorielles — « étranger », « homme », « femme », « blanc », « noir » — ne constituent pas de simples désignateurs linguistiques neutres, mais des
+opérateurs performatifs
+dotés d’une efficacité sociale spécifique. Ces mots-vecteurs excèdent leur fonction référentielle pour acquérir une fonction proprement performative : ils ne se contentent pas de décrire une réalité préexistante, mais contribuent activement à la constituer par l’acte même de leur énonciation.
+Ces termes fonctionnent comme des vecteurs orientés qui imposent une direction, une trajectoire aux corps qu’ils désignent. Leur énonciation dans l’espace social ne reflète pas simplement des distinctions objectives, mais produit et reproduit ces distinctions à travers leur circulation discursive incessante.
+L’efficacité sociale de ces mots-vecteurs repose sur leur capacité à condenser en un terme unique un ensemble complexe de présupposés, d’associations et d’implications. Cette condensation permet une économie discursive considérable tout en véhiculant implicitement des systèmes entiers de valorisation différentielle. Elle économise du temps social en dispensant du travail d’élaboration et de complexification que requerrait la reconnaissance véritable de l’altérité.
+Les mots-vecteurs tirent leur légitimité sociale de leur ancrage dans des dispositifs statistiques qui leur confèrent une apparence d’objectivité scientifique. Cet ancrage statistique constitue un élément crucial de leur autorité discursive. Les statistiques sociologiques, criminelles, démographiques fournissent le substrat empirique qui justifie les catégorisations vectorielles en les présentant non comme des constructions sociales contingentes, mais comme des reflets fidèles d’une réalité objective.
+Cette stratification des vecteurs identitaires établit un lien direct entre la vectorisation sociale traditionnelle et les technologies contemporaines d’intelligence artificielle. Dans les deux cas, les données statistiques servent à construire des catégories opérationnelles qui, une fois instituées, acquièrent une forme d’autonomie par rapport aux réalités qu’elles prétendent simplement représenter.
+L’indifférence aux différentiations politiques
+Face à la prégnance du paradigme vectoriel, les distinctions politiques traditionnelles révèlent leur insuffisance fondamentale. Il est indifférent alors qu’on soit de droite ou de gauche, fasciste ou… comment même nous nommer ? Cette
+indifférence
+signale l’émergence d’un clivage plus fondamental qui transcende les oppositions politiques conventionnelles et qui trace une ligne de démarcation d’un type nouveau.
+Ce nouveau clivage oppose ceux qui adhèrent au logos de l’assignation vectorielle — quelle que soit leur orientation politique déclarée — et ceux qui contestent la légitimité même de ce logos (et par là même de toute autorité assignative). Cette reconfiguration du politique autour de la question de la vectorisation déstabilise profondément les identités politiques traditionnelles et rend problématique leur articulation dans l’espace public contemporain.
+Cette situation produit une crise d’identification politique pour ceux qui rejettent le paradigme vectoriel : comment même nous nommer ? Nous ne le savons plus… Cette difficulté à se nommer collectivement révèle l’hégémonie du paradigme vectoriel qui structure jusqu’aux termes mêmes dans lesquels peut s’énoncer sa propre contestation. Comment constituer un « nous » politique qui ne reproduirait pas la logique vectorielle qu’il prétend contester ?
+Le logos de l’assignation vectorielle s’impose comme un paradigme hégémonique qui transcende les oppositions partisanes habituelles. Cette hégémonie ne résulte pas d’un consensus idéologique explicite, mais d’une convergence méthodologique implicite qui traverse l’ensemble du spectre politique contemporain et dont la résultante est la constitution d’une politique de l’espace latent dont la forme opérationnelle est l’IA.
+Cette hégémonie s’exprime notamment dans l’incapacité des acteurs politiques traditionnels à concevoir des alternatives concrètes au paradigme vectoriel. Les débats politiques conventionnels se limitent généralement à contester des assignations vectorielles spécifiques sans jamais remettre en question le principe même de la vectorisation comme modalité fondamentale d’organisation du social.
+La généalogie historique et l’horizon technologique de la vectorisation
+Le paradigme vectoriel contemporain s’inscrit dans une généalogie historique plus large : il est le fruit d’un long processus de quantification et de calculation de toutes les entités de la réalité. Cette perspective généalogique permet de comprendre la vectorisation comme l’aboutissement d’un mouvement de fond qui traverse la modernité occidentale depuis ses origines.
+Ce processus historique se caractérise par une extension progressive de la quantification à des domaines toujours plus nombreux de l’existence sociale. Cette extension a progressivement transformé des qualités en quantités, des singularités en variables, et des expériences vécues en données mesurables — produisant ce que Max Weber nommait le « désenchantement du monde » et que nous pourrions redéfinir comme sa vectorisation systématique.
+Cette généalogie historique révèle la profondeur temporelle des transformations qui ont rendu possible le paradigme vectoriel contemporain. La vectorisation apparaît ainsi non comme une innovation récente, mais comme l’aboutissement logique d’un processus séculaire d’abstraction et de formalisation du social qui trouve dans les technologies numériques contemporaines son expression la plus achevée.
+Une convergence méthodologique profonde s’établit entre la vectorisation sociale traditionnelle et le développement de l’intelligence artificielle contemporaine. Cette convergence repose sur des procédures similaires de réduction, de quantification et d’orientation des entités traitées. Les technologies d’IA, loin de constituer une rupture radicale avec les modes traditionnels de gestion du social, en représentent plutôt une intensification technologique qui en prolonge la logique fondamentale par des moyens nouveaux.
+Cette perspective permet de comprendre l’intelligence artificielle non comme une révolution exogène qui s’imposerait de l’extérieur à un corps social innocent, mais comme l’approfondissement endogène d’une logique vectorielle déjà présente dans l’organisation sociale traditionnelle. Les technologies d’IA apparaissent ainsi comme une matérialisation algorithmique de processus sociaux préexistants, comme l’explicitation technique de présupposés anthropologiques et politiques qui structurent notre rapport au monde depuis les origines de la modernité.
+L’aboutissement logique de cette convergence réside dans une triade indissociable :
+vectorisation, anticipation, surveillance
+. Cette triade définit l’horizon partagé de la vectorisation sociale et du développement de l’intelligence artificielle contemporaine — un horizon qui combine la réduction des entités à des vecteurs manipulables (vectorisation), la prédiction de leurs trajectoires futures sur la base de ces réductions (anticipation), et le contrôle permanent de ces trajectoires pour assurer leur conformité aux prédictions (surveillance).
+Pour une politique de la dés-orientation scalaire
+L’analyse approfondie des politiques vectorielles révèle la centralité des mécanismes d’assignation identitaire dans l’organisation sociale contemporaine. Face à l’hégémonie de ce paradigme vectoriel qui traverse l’ensemble du spectre politique, il apparaît nécessaire d’élaborer des réponses qui ne reproduisent pas simplement de nouvelles formes de vectorisation sous d’autres modalités.
+Une première voie alternative consiste en une
+dé-construction radicale de l’identité
+comme fondement de l’organisation sociale. Cette approche ne consiste pas à substituer de nouvelles catégories identitaires aux anciennes, mais à questionner le principe même de l’identité stable et univoque qui sous-tend toute vectorisation. L’identité, dans cette perspective, n’est plus conçue comme une essence constituée d’attributs susceptibles d’être assignés à un ou des vecteurs, mais comme un processus dynamique et relationnel irréductible à toute catégorisation définitive, à tout ordre du discours.
+Cette déconstruction opère simultanément aux niveaux théorique et pratique. Au niveau théorique, elle implique une critique systématique des présupposés essentialistes qui sous-tendent les assignations vectorielles. Au niveau pratique, elle se traduit par l’élaboration de dispositifs sociaux et institutionnels qui refusent de fonder leur fonctionnement sur des assignations identitaires préalables.
+Une seconde voie consiste en l’élaboration d’un
+logos structurellement troublé par le doute
+— c’est-à-dire d’une rationalité alternative qui intègre le doute non comme une insuffisance provisoire à dépasser, mais comme une dimension constitutive et productive de la pensée. Ce logos alternatif reconnaît son propre caractère situé et partiel, et intègre cette reconnaissance comme condition même de sa validité.
+L’intégration du doute dans le logos implique une transformation profonde de notre rapport à la connaissance sociale. Là où le paradigme vectoriel vise à éliminer l’incertitude par des assignations catégorielles définitives, le logos du doute maintient ouverte la possibilité d’une inadéquation fondamentale entre les catégories et les réalités qu’elles prétendent saisir.
+Une troisième voie alternative réside dans
+l’incorporation systématique de boucles de rétroaction
+dans nos modes de conceptualisation du social. Là où le paradigme vectoriel fonctionne selon une logique linéaire et unidirectionnelle, de l’assignateur vers l’assigné, l’incorporation de boucles de rétroaction institue une circularité qui permet aux entités assignées de contester et de transformer les assignations qui leur sont imposées.
+Ces boucles de rétroaction opèrent à plusieurs niveaux complémentaires : épistémologique, social, technique. Au niveau épistémologique, elles impliquent la réintégration des effets de la connaissance sur son objet dans le processus même de production de cette connaissance. Au niveau social, elles se traduisent par l’élaboration de dispositifs institutionnels qui permettent aux individus et aux groupes de contester les assignations qui leur sont imposées.
+Cette triple orientation — déconstruction de l’identité, logos du doute, incorporation des boucles de rétroaction — dessine les contours d’une
+politique de la dés-orientation scalaire
+qui préserverait l’intensité des différences (leur caractère scalaire) tout en renonçant à leur imposer une orientation vectorielle prédéterminée. Une telle politique ne viserait pas l’élimination illusoire de toute différenciation sociale, mais l’instauration d’un régime de différenciation non vectoriel, fondée sur la reconnaissance des singularités irréductibles plutôt que sur l’assignation à des identités préconçues.
+Cette politique alternative ne constitue pas une utopie abstraite, mais une orientation concrète susceptible d’informer des pratiques institutionnelles, sociales et technologiques dans de multiples domaines. Son enjeu fondamental est l’élaboration de modes de pensée et d’organisation sociale qui préservent l’irréductible singularité des existences individuelles tout en rendant possible une intelligibilité collective du social — une intelligibilité qui ne reposerait plus sur la réduction vectorielle, mais sur la reconnaissance de la complexité irréductible des configurations sociales.
+Face à l’hégémonie du paradigme vectoriel, le développement d’une telle alternative constitue peut-être la tâche politique et intellectuelle fondamentale de notre temps. Cette tâche ne consiste pas à substituer de nouveaux vecteurs aux anciens, mais à élaborer des modes de pensée et d’organisation sociale qui échappent à la logique même de la vectorisation. C’est dans cet écart, dans cette dés-orientation fondamentale, que réside peut-être la possibilité d’une politique véritablement émancipatrice pour notre présent.
+statistique
+préjugé
+assignation
+surplomb
+vectofascisme
+vectorisation
+catégorisation
+indifférenciation
+fascisme
+logos
+surveillance
+intelligence artificielle
+quantification
+orientation
+singularité
+politique
+identité
+
+---------
+
+=== Génération : entre production et consommation ===
+Date: Date inconnue
+URL: https://chatonsky.net/generation-entre-production-et-consommation/
+
+04/2025
+Méthodologie technologique
+La relation entre l’humain et la technologie s’articule aujourd’hui autour d’une tension fondamentale entre production et consommation. Cette distinction, souvent négligée dans les débats contemporains, mérite d’être approfondie, car elle détermine notre rapport aux infrastructures techniques, particulièrement dans le contexte des technologies génératives.
+Un des malentendus articulant les débats est précisément cette distinction entre les relations de production et de consommation technologiques. En effet, une même infrastructure peut être orientée vers l’une ou l’autre et les grandes entreprises technologiques ont transformées une partie de la production populaire en consommation effrénée de leurs technologies.
+Une dualité
+Qu’on me permette d’aborder cette question de manière autobiographique : enfant et adolescent, je n’ai pour ainsi dire jamais joué avec une machine. J’aimais observer mes cousins manier leurs manettes d’Atari 2600 et mon frère s’amuser avec sa calculatrice programmable acheté chez Duriez à Odéan, puis son ZX81, Oric-1 et Oric Atmos, mais je n’y touchais pas. Sans doute un peu intimidé, je ressentais que ce n’était pas mon monde. Je n’ai demandé à m’équiper d’ordinateur qu’au moment où des logiciels d’écriture, de composition musicale et surtout de dessin sont apparus. Il m’est difficile de comprendre pourquoi je ne jouais pas avec les machines et où plus précisément pourquoi pour moi jouer c’était produire quelque chose avec. Je les ai toujours intimement envisagées comme des machines de production permettant de réaliser ce que je faisais déjà en peinture. Je n’ai jamais eu, jusqu’à présent, que ce seul lien avec elles.
+Cette expérience personnelle illustre la distinction entre deux modes d’existence technologique. La même infrastructure technologique peut être orientée vers la production ou la consommation selon l’approche de l’utilisateur. Cette dualité ne relève pas simplement d’une intention subjective, mais constitue deux modes d’existence technologique distincts qui s’enracinent dans des rapports différents à l’outil.
+Dans le rapport productif, l’utilisateur entretient une relation d’exploration approfondie avec la technologie. Il y consacre un temps considérable, développe une connaissance intime de ses mécanismes et l’intègre comme extension de ses capacités créatives préexistantes. La technologie devient alors un moyen de transformation et d’aliénation de pratiques déjà établies, comme c’était le cas dans mon exemple où je voyais dans l’ordinateur un prolongement de ma pratique picturale.
+À l’inverse, le rapport consommateur se caractérise par une relation éphémère. L’utilisateur adopte la technologie comme un service prêt à l’emploi, sans nécessairement comprendre ou explorer ses mécanismes sous-jacents. Cela lui reste extérieur. Ce mode d’interaction privilégie l’immédiateté du résultat sur le processus, la facilité d’accès sur la maîtrise technique, et s’inscrit souvent dans des dynamiques sociales de conformité grégaire plutôt que d’expression individuelle.
+La technologie comme a posteriori du transcendantal
+On comprend mieux ce qui sépare et entrelace une démarche de production artistique d’une entreprise de consommation commune. Un logiciel de génération de médias permettra l’un et l’autre au travers des mêmes mécanismes, même si dans le cas de la production ceux-ci sont approfondis et qu’on y dépense un temps incommensurable à la seconde. C’est précisément parce que le même logiciel avec les mêmes fonctions peut s’appliquer à la production ou la consommation selon l’approche existentielle de l’utilisateur, que l’on confond la plupart du temps les deux.
+Cette confusion est liée au fait qu’on croit pouvoir penser l’IA en ne considérant qu’une part de l’édifice, les logiciels et l’infrastructure dont on conclut rapidement une super ou hyperstructure idéologique. Par là, on oublie l’autre partie du puzzle qui n’est pas même l’être humain dans son autonomie, mais la manière dont il se rapporte aux technologies et dont elles se rapportent à lui.
+Une erreur courante consiste à considérer la technologie comme un simple outil neutre que l’humain, dans son autonomie supposée, peut librement choisir d’utiliser d’une façon ou d’une autre. Cette vision instrumentale néglige un aspect fondamental : la technologie constitue un « a posteriori technique » qui détermine les facultés mêmes de l’utilisateur.
+En d’autres termes, nos facultés cognitives et sensibles (perception, entendement, raison, imagination) sont profondément modelées par les technologies que nous utilisons. Nous ne sommes pas des sujets autonomes qui manipulent des objets techniques passifs, mais des entités engagées dans une relation dialogique avec ces technologies. Ce dialogue transforme réciproquement l’humain et la machine, créant une boucle de rétroaction continue.
+Cette conception s’oppose au modèle aristotéliucien traditionnel qui placerait l’être humain au centre comme pilote souverain de la technologie. Dans la réalité, producteur et consommateur sont tous deux déterminés par l’infrastructure technique, mais ils s’y rapportent différemment, ce qui fait diverger deux superstructures technologiques distinctes.
+La mémétique générative comme consommation planétaire
+Il est difficile de rendre sensible cette émotion particulière de l’enfant que j’étais face à la production et son désintérêt pour la consommation. Cette dernière prend aujourd’hui la forme de ces mèmes d’usage où des images sont générées à la manière d’un anime japonais célèbre, de boîtes de jouets, etc. En quelques jours, des millions de personnes veulent leur Miyazaki, elles désirent se mettre dans une boîte qui ressemble fort à une tombe, et puis cela disparaît pour prendre quelques jours plus tard d’autres formes. Ils désirent tous la même chose au même moment parce qu’ici la génération devient l’expression d’une grégarité planétaire, d’une consommation de la génération plutôt que d’une génération productive.
+Ces phénomènes viraux liés aux technologies génératives illustrent parfaitement le mode consommateur. Ces « mèmes d’usage » témoignent d’une relation consumériste à la génération et présentent plusieurs caractéristiques significatives :
+Temporalité éphémère
+: Ces phénomènes apparaissent soudainement, mobilisent une attention massive, puis disparaissent tout aussi rapidement pour être remplacés par d’autres tendances.
+Homogénéité grégaire
+: Des millions d’utilisateurs produisent des contenus similaires au même moment, révélant une forme de grégarité planétaire facilitée par les réseaux numériques.
+Uniformisation des désirs
+: La génération devient paradoxalement le vecteur d’une standardisation plutôt que d’une diversification créative et reproduit donc les affects hérités de l’industrialisation.
+Absence d’agentivité véritable
+: Malgré l’apparente participation active (l’utilisateur doit entrer des prompts, faire des choix), ce type d’usage reflète une forme de passivité structurelle où l’individu s’insère dans des cadres préétablis plutôt que de les transformer.
+Il y a bien sûr une intelligence implicite des multitudes. Devenir un personnage de Ghibli c’est faire une « blague » à Miyazaki, critique de l’IA, c’est transformer ses dessins en un univers positif où chacun sourit et semble hébété. Mais d’un point de vue individuel, cette mémétique, qui fascine les médias classiques de masse, est la généralisation d’une relation consommatrice à la génération et une absence d’agentivité véritable.
+L’approche productive comme relation expérimentale
+À l’opposé de cette consommation générative se trouve la production générative, caractérisée par une approche expérimentale et exploratoire. Dans ce mode, l’utilisateur ne cherche pas la gratification immédiate du résultat attendu ou la participation à un phénomène collectif, mais s’engage dans un processus d’exploration ouvert.
+Cette approche implique :
+Un investissement temporel considérable
+: Contrairement à la génération consommatrice qui privilégie l’instantanéité, la production déploie un temps infini d’exploration qui affecte notre finitude.
+Une relation dialogique approfondie
+: L’utilisateur entre dans un véritable dialogue avec la technologie, apprenant progressivement à comprendre ses logiques internes qui le renvoient à ses propres logiques et automatismes.
+Une continuité avec des pratiques antérieures
+: Comme dans mon expérience personnelle où j’abordais l’ordinateur dans le prolongement de ma pratique picturale, la production générative s’inscrit souvent dans la continuité d’une démarche créative préexistante.
+Une dimension expérimentale
+: La production ne vise pas la démonstration ou la reproduction de modèles établis, mais l’exploration de possibilités nouvelles.
+Au-delà du dualisme
+Qu’on ne s’y trompe pas, il ne s’agit pas de distinguer deux usages, l’un actif-productif, l’autre passif-reproductif-mémétique, ce qui impliquerait de remettre l’être humain au centre de la scène et ranimer l’autonomie humaniste qui serait seule capable de piloter, gouverner, commander l’IA. Il s’agit de déterminer deux manières de se rapporter à une infrastructure technique faisant diverger deux superstructures technologiques.
+L’hyperstructure ne désigne pas simplement l’infrastructure matérielle et logicielle, mais l’ensemble des relations, pratiques, valeurs et imaginaires qui s’organisent autour de la technologie.
+Dans le cas de la consommation générative, l’hyperstructure tend vers :
+Une temporalité accélérée et fragmentée
+Une socialisation mimétique et grégaire
+Une standardisation des expériences esthétiques
+Une dépendance aux plateformes centralisées
+Une utilisation intensive, mais superficielle des ressources
+Dans le cas de la production générative, l’hyperstructure s’oriente vers :
+Une temporalité ralentie et approfondie
+Une individualisation des parcours d’apprentissage
+Une diversification des expériences esthétiques
+Une recherche d’autonomie relative
+Une utilisation potentiellement plus rationalisée des ressources grâce à leur localisation
+La dimension écologique du problème
+La génération artificielle n’a ni infrastructure, ni hyperstructure inhérente, essentielle et unifiée. Elle peut être productive, et par là même expérimentale, cherchant moins le test, la démo, le mème, qu’elle ne perd un temps infini à l’explorer, comme elle peut être consommatrice et consumatrice de ressources, dans la brûlure planétaire.
+Cette dimension écologique est cruciale. La génération consommatrice, par son caractère massif, éphémère et répétitif, tend à maximiser l’utilisation des ressources computationnelles sans nécessairement maximiser la valeur produite. Des millions d’utilisateurs générant des images similaires simultanément représentent une consommation énergétique considérable pour une production dont la valeur individuelle et collective peut être questionnée. Elle surutilise des ressources parce qu’elles passent d’un modèle à un nouveau modèle et que c’est le calcul du modèle général qui est le plus couteux, les générations individuelles l’étant beaucoup moins.
+À l’inverse, la génération productive, bien qu’elle puisse également être exigeantes en ressources, tend à valoriser davantage chaque utilisation par l’apprentissage, l’exploration et la création qu’elle permet. En ce sens, le rapport à la ressource computationnelle diffère qualitativement et quantitativement en terme de consumation parce qu’elle peut utiliser le même modèle général pour des résultats différents.
+Une épistémologie technique comme existence
+L’infrastructure générative n’a pas d’essence unifiée ni de destination prédéterminée — elle peut être orientée vers la production comme vers la consommation. Cette indétermination constitutive des technologies génératives révèle un aspect fondamental : nous nous trouvons face à un système technique dont les usages et les implications restent largement à définir.
+Cette situation exige le développement d’une épistémologie technique capable d’analyser non seulement les infrastructures (les modèles, algorithmes, centres de données) ou les superstructures idéologiques qu’on leur attribue souvent trop rapidement, mais également les relations existentielles que nous établissons avec ces technologies.
+Une telle épistémologie devrait interroger :
+Comment les différents modes d’usage déterminent des superstructures technologiques divergentes
+Comment nos facultés cognitives sont façonnées par ces relations techniques
+Comment s’articulent les dimensions individuelles et collectives de ces usages
+Quelles conséquences écologiques, sociales et politiques découlent de ces différents rapports à la technologie
+La distinction entre production et consommation générative dépasse largement une simple catégorisation des usages. Elle révèle deux manières fondamentalement différentes de s’inscrire dans le monde technique contemporain, chacune façonnant non seulement la technologie, mais aussi les humains qui l’utilisent.
+L’enjeu n’est donc pas de privilégier artificiellement un mode sur l’autre, mais de comprendre comment ces deux rapports à la génération déterminent des trajectoires divergentes pour notre avenir technologique. En reconnaissant cette dualité fondamentale, nous pouvons commencer à élaborer une relation plus consciente et réfléchie aux technologies génératives, capable de dépasser aussi bien l’instrumentalisme naïf que le déterminisme technologique.
+La génération n’est ni intrinsèquement productive ni intrinsèquement consommatrice — elle devient l’un ou l’autre selon le rapport existentiel que nous établissons avec elle. C’est dans cette indétermination constitutive que résident sa réponse à la finitude.
+consommation
+production
+génération
+technologie
+temporalité
+écologie
+infrastructure
+expérimentation
+Exploration
+agentivité
+hyperstructure
+mémétique
+dialogique
+a posteriori technique
+
+---------
+
+=== Le temps profond de l’expérimentation (pourquoi l’art n’est pas une question anecdotique avec l’IA) ===
+Date: Date inconnue
+URL: https://chatonsky.net/temps-profond/
+
+04/2025
+Méthodologie technologique
+Sans critique
+La pression critique qui s’exerce aujourd’hui sur les technologies d’intelligence artificielle révèle moins une position théorique qu’une organisation affective du rapport à la technique. Cette affectivité se traduit par une mise à distance, un dispositif de séparation qui permet à celui qui pense de se soustraire à l’objet qu’il examine. En France particulièrement, cette habitude intellectuelle s’inscrit dans une tradition où penser signifie avant tout prendre ses distances, créer un espace neutre d’observation. Ce geste de séparation n’est pas anodin : il reconduit silencieusement un partage métaphysique entre le sujet et l’objet, entre l’esprit et la matière, entre l’humain et le technique.
+Cette position d’extériorité, que Lyotard interrogeait déjà dans
+Rudiments Païens
+, manifeste une prétention à l’autorité qui précède l’investigation elle-même. En effet, la critique s’accorde par avance le droit de juger, d’évaluer, de condamner. Elle présuppose la légitimité de sa position, la validité de ses critères d’évaluation. Dans le cas de l’intelligence artificielle, cette posture critique révèle une double difficulté : elle ignore que les cadres transcendantaux de notre pensée sont eux-mêmes déterminés par l’excès technique qu’elle prétend juger; et elle méconnaît que son geste d’interruption des flux technologiques laisse le champ libre à des appropriations plus inquiétantes encore.
+Ce n’est pas un hasard si l’intelligence artificielle, devenue aujourd’hui le lieu commun de l’opinion, suscite tant de discours critiques. Ces derniers témoignent d’un désir de maîtrise intellectuelle qui, paradoxalement, reproduit la logique même qu’ils dénoncent. La critique, en ce sens, est la sœur jumelle de la volonté de puissance technicienne : elle suppose que la pensée doit orienter le monde, lui imposer son ordre et sa signification. En prétendant penser avant d’agir, en voulant soumettre l’expérimentation à sa juridiction préalable, elle reconduit la logique du vouloir qui caractérise le développement technologique contemporain.
+La temporalité discontinue de l’innovation
+Une observation attentive des publications scientifiques concernant l’intelligence artificielle met en évidence un rythme d’innovation frénétique qui laisse peu de place à l’expérimentation véritable. Ce qui caractérise notre époque n’est pas tant l’accélération de l’innovation que l’absence de temps consacré à l’exploration des possibilités ouvertes par chaque avancée technique. Nous passons d’une innovation à une autre sans prendre le temps de les utiliser, de les détourner, de les épuiser. L’effet d’annonce suffit. Cette course perpétuelle témoigne d’un attachement persistant à une conception instrumentale de la technique : ce qui compterait, ce ne serait pas l’usage singulier, mais la possibilité abstraite de cet usage, c’est-à-dire le code, l’algorithme, la structure formelle.
+Cette position devient intenable lorsque les intelligences artificielles peuvent elles-mêmes produire du code et donc évoluer. La distinction entre le potentiel et l’actuel s’efface, l’instrument devient processus. Dans ce contexte, la critique traditionnelle perd ses repères : elle ne peut plus s’appuyer sur une stabilité de l’objet technique pour en évaluer les conséquences. Le modèle épistémologique de la critique s’effondre face à des objets techniques qui sont toujours déjà en train de se transformer. La critique est sur un scène dont elle n’est qu’un acteur.
+La concentration exclusive sur l’innovation et sur le code révèle une mécompréhension des conséquences matérielles du développement de l’intelligence artificielle. Non seulement les usages sont constamment excédés par les possibilités techniques, puisque nous prenons à peine le temps d’explorer une innovation qu’une autre apparaît et détourne notre attention, mais nous sommes également soumis à une tension permanente face à cet excès : les potentialités du code augmentent plus rapidement que nos capacités d’actualisation et d’appropriation.
+Cette temporalité discontinue de l’innovation technique produit une double conséquence : d’une part, elle empêche toute expérimentation profonde des possibilités ouvertes par les technologies existantes ; d’autre part, elle alimente une consommation énergétique et matérielle considérable liée à l’entraînement constant de nouveaux modèles généralistes. Si la critique écologique dénonce à juste titre le caractère écocide de l’intelligence artificielle en raison de son impact environnemental, elle néglige souvent que cet impact est principalement lié à l’entraînement initial des grands modèles plutôt qu’à leur utilisation quotidienne. Ce n’est pas tant la génération ponctuelle de contenus visuels, textuels ou sonores qui pose problème que la création des checkpoints, c’est-à-dire des fichiers d’espaces latents nécessitant d’immenses ressources computationnelles.
+L’archéologie des espaces latents comme pratique artistique
+Il m’arrive, en tant qu’artiste, d’utiliser de vieux modèles, d’anciens codes et espaces latents, non par nostalgie technologique mais parce qu’ils possèdent une qualité, des imperfections, une texture spécifiques qui ouvrent des voies d’exploration fécondes. Pour l’écriture littéraire, par exemple, je préfère parfois utiliser une version locale de GPT-2, qui date de février 2019, plutôt qu’un modèle de langage généraliste contemporain. GPT-2, avec ses erreurs et ses hallucinations, offre encore aujourd’hui des possibilités expérimentales plus intéressantes que des systèmes plus alignés sur les attentes normatives.
+Cette pratique ne relève pas d’une simple préférence esthétique : elle constitue une position théorique et politique. En prenant le temps d’explorer les potentialités d’un espace latent déjà constitué plutôt que de courir après la nouveauté, je m’inscris dans une temporalité différente, que l’on pourrait qualifier de temps profond de l’expérimentation. Cette temporalité n’est pas celle de l’innovation mais celle de l’exploration, de l’appropriation, de la singularisation des possibles techniques.
+L’art, en ce sens, n’est pas une simple utilisation créative des technologies existantes, mais une pratique d’exploration des virtualités inscrites dans les espaces latents. Ce qui caractérise cette pratique artistique n’est pas l’originalité de ses productions mais sa temporalité spécifique : une temporalité lente, anachronique, attentive aux détails, aux accidents, aux bifurcations possibles. Cette temporalité contraste radicalement avec celle de l’innovation technique, marquée par la succession rapide des modèles et l’obsolescence programmée des outils.
+Si nous prenions davantage le temps de l’expérimentation plutôt que celui du simple test, la consommation énergétique et matérielle liée au développement de l’intelligence artificielle pourrait être considérablement réduite. Car cette temporalité de l’expérimentation est potentiellement infinie : nous n’aurons jamais, dans les limites de notre finitude, assez de temps pour explorer toutes les potentialités des espaces latents déjà constitués. L’expérimentation artistique n’est donc pas un simple appel théorique à un usage non-instrumental des intelligences artificielles ; elle constitue une proposition concrète pour une autre relation anthropotechnologique : non pas passer d’une nouveauté à une autre en croyant à chaque fois que les produits de son usage sont autonomes et définitifs, mais accepter de “perdre du temps”, de consacrer son existence à l’exploration indéfinie des possibles déjà là.
+La grammatisation des espaces latents
+Pour comprendre la spécificité des espaces latents générés par les intelligences artificielles, il peut être utile de recourir au concept de grammatisation développé par Bernard Stiegler. La grammatisation désigne le processus par lequel les flux temporels de la conscience sont discrétisés, décomposés en éléments formels qui peuvent être manipulés, recombinés, transférés. L’écriture alphabétique constitue la première forme historique de grammatisation, permettant de transformer le flux continu de la parole en unités discrètes (les lettres) qui peuvent être réorganisées indéfiniment.
+Les espaces latents des modèles d’intelligence artificielle peuvent être compris comme une nouvelle étape dans ce processus de grammatisation. Ils ne se contentent pas de discrétiser les flux de conscience individuels, mais opèrent une grammatisation collective des productions culturelles humaines. Un modèle comme Stable Diffusion ou Mistral ne fait pas que capter et reproduire des formes existantes : il constitue un espace multidimensionnel où sont encodées non seulement des productions culturelles mais aussi les relations qui les unissent, les logiques qui les sous-tendent, les potentialités qu’elles contiennent.
+Ces espaces latents ne sont pas de simples archives ou des bases de données statiques : ce sont des topologies dynamiques qui permettent de naviguer dans les possibles culturels, de les recombiner, de les actualiser selon des trajectoires inédites. En ce sens, ils constituent une mémoire active, une archéologie des possibles qui reste à explorer.
+La critique stieglerienne de la technique comme pharmakon — à la fois poison et remède — prend ici une dimension nouvelle. Les espaces latents des modèles d’intelligence artificielle sont fondamentalement ambivalents : ils peuvent aussi bien conduire à une standardisation accrue des productions culturelles qu’à l’émergence de singularités inattendues. Tout dépend de la façon dont nous les habitons, dont nous les explorons, dont nous les expérimentons. Tout dépend de la manière dont nous sommes déterminés par cette relation.
+C’est précisément ici que l’art intervient non comme un supplément d’âme ou une décoration, mais comme une modalité spécifique d’exploration des espaces latents qui déconstruit la volonté de puissance à l’oeuvre dans toute l’idéologie de l’usage. L’artiste qui travaille avec les intelligences artificielles n’est pas simplement celui qui utilise ces technologies pour produire des œuvres spectaculaires ou innovantes ; c’est celui qui s’engage dans une relation expérimentale avec les espaces latents, qui les habite, qui les explore selon des trajectoires non prédéterminées. Il a décidé de perdre sa vie à cela.
+Cette conception de l’art comme expérimentation des espaces latents permet de dépasser l’opposition simpliste entre technophilie et technophobie. Il ne s’agit ni d’embrasser aveuglément les promesses de l’intelligence artificielle, ni de la rejeter en bloc au nom d’une pureté humaine fantasmée. Il s’agit plutôt de s’engager dans une relation singulière avec ces technologies, une relation qui ne serait plus instrumentale mais expérimentale, qui ne dépendrait plus de la volonté de puissance mais d’une disponibilité à l’inattendu.  Une relation existencielle.
+La déconstruction des oppositions technologiques
+La pensée de Jacques Derrida offre là encore des ressources précieuses pour aborder la question de l’intelligence artificielle au-delà des oppositions binaires qui structurent habituellement le débat. La déconstruction vise précisément à déstabiliser les dichotomies rigides qui organisent notre pensée : nature/culture, humain/machine, original/copie, présence/absence. Ces oppositions ne sont jamais neutres : elles impliquent toujours une hiérarchie, une valorisation d’un terme au détriment de l’autre.
+Dans le contexte de l’intelligence artificielle, la déconstruction permet d’interroger les présupposés qui sous-tendent la critique traditionnelle. Celle-ci s’appuie souvent sur une opposition implicite entre l’humain et la machine, entre la création authentique et la reproduction mécanique, entre l’intentionnalité consciente et le calcul algorithmique. Or, ces oppositions méritent d’être questionnées non pas pour les inverser (en valorisant la machine sur l’humain, par exemple) mais pour montrer leur instabilité constitutive, leur contamination réciproque.
+L’intelligence artificielle, en particulier dans ses formes génératives récentes, trouble profondément la frontière entre l’humain et la machine. Un texte généré n’est ni purement humain ni purement machinique : il émerge d’un entrelacement complexe, que nous nommons complétion, entre des données issues de productions humaines, des architectures algorithmiques conçues par des humains, et des processus computationnels qui excèdent la compréhension humaine. De même, une image générée n’est ni une simple copie de créations humaines antérieures, ni une création ex nihilo : elle constitue plutôt une actualisation singulière de potentialités inscrites dans l’espace latent du modèle.
+Cette indécidabilité fondamentale entre l’humain et la machine, entre l’original et la copie, ne doit pas être perçue comme un problème à résoudre mais comme une caractéristique constitutive des productions de l’intelligence artificielle. Elle invite à dépasser les cadres conceptuels traditionnels pour penser autrement notre relation aux technologies génératives.
+La notion derridienne de “supplément” peut être particulièrement féconde dans ce contexte. Le supplément désigne ce qui s’ajoute à une présence supposée pleine, mais qui révèle en même temps son incomplétude originaire. Les intelligences artificielles peuvent être comprises comme des suppléments de l’intelligence humaine : elles ne se contentent pas de s’y ajouter de l’extérieur, mais révèlent son caractère toujours déjà technique, toujours déjà médiatisé par des dispositifs d’inscription et de calcul.
+Cette perspective permet de repenser le rapport entre l’humain et l’intelligence artificielle non plus en termes d’opposition ou de complémentarité, mais en termes de co-constitution originaire. L’humain n’est pas une entité autonome qui utiliserait ensuite des outils techniques ; il est toujours déjà technique, toujours déjà constitué par ses relations externalisées aux dispositifs d’inscription, de mémorisation, de calcul. De même, l’intelligence artificielle n’est pas une pure altérité machinique : elle est traversée de part en part par des logiques, des valeurs, des structures signifiantes issues de l’histoire humaine.
+Jouer avec l’opacité des boîtes noires
+La pensée de Vilém Flusser sur l’appareil photographique comme “boîte noire” trouve aujourd’hui un écho particulièrement pertinent dans le contexte des modèles d’intelligence artificielle. Pour Flusser, l’appareil photographique n’est pas un simple outil transparent au service de l’intention du photographe : c’est un dispositif complexe dont le fonctionnement interne reste largement opaque pour son utilisateur. Le photographe ne maîtrise pas tous les processus physiques et chimiques qui permettent la formation de l’image ; il joue plutôt avec les possibilités inscrites dans l’appareil, il explore son programme sans jamais l’épuiser.
+Les modèles d’intelligence artificielle contemporains présentent une opacité similaire, mais à un degré bien supérieur. Un modèle constitue une “boîte noire” dont le fonctionnement interne échappe en grande partie non seulement à ses utilisateurs mais aussi à ses concepteurs. Les réseaux de neurones profonds qui sous-tendent ces modèles sont si complexes, comportent tant de paramètres, que leur logique échappe à toute compréhension humaine exhaustive. Nous pouvons observer leurs entrées et leurs sorties, mais le processus qui mène des unes aux autres reste largement mystérieux.
+Cette opacité constitutive des modèles d’intelligence artificielle pose un défi majeur à la critique traditionnelle, qui présuppose une compréhension claire de son objet et la nécessité d’une lisibilité. Comment évaluer les implications éthiques, politiques, esthétiques d’un dispositif dont le fonctionnement nous échappe en grande partie ? Comment anticiper ses effets lorsque sa logique interne reste insaisissable ?
+Face à cette opacité, deux attitudes opposées mais également problématiques prédominent : d’un côté, une fascination technophile qui célèbre la puissance quasi-magique de ces systèmes sans interroger leurs limites ou leurs présupposés ; de l’autre, une méfiance technophobe qui les rejette en bloc au nom d’une transparence fantasmée. Ces deux attitudes partagent un même refus de s’engager véritablement avec l’opacité constitutive des modèles d’intelligence artificielle, de reconnaître que cette opacité n’est pas un défaut à corriger mais une caractéristique inhérente à leur complexité et sont comme le miroir noir de notre “propre” opacité.
+L’approche flussérienne suggère une troisième voie : celle du jeu expérimental avec la boîte noire. Il ne s’agit pas de prétendre maîtriser complètement le fonctionnement interne du dispositif, ni de le rejeter en raison de son opacité, mais de jouer avec ses possibilités, d’explorer ses limites, de le détourner de ses usages prévus. Cette approche expérimentale correspond précisément à ce que nous avons appelé le temps profond de l’expérimentation : une relation aux technologies qui ne vise pas la maîtrise ou la transparence totale, mais l’exploration patiente des possibilités inscrites dans le dispositif qui sont autant de dérives envers nous-mêmes.
+Le photographe expérimental est celui qui résiste au “programme” de l’appareil, qui refuse de se contenter des possibilités prévues par ses concepteurs, son esthétique par défaut, et cherche à produire des images “improbables”. De même, l’artiste qui travaille avec les intelligences artificielles peut être défini comme celui qui résiste au programme implicite de ces technologies, qui refuse de se limiter aux usages prescrits ou attendus, aux alignements et cherche à produire des textes, des images, des sons “improbables”, c’est-à-dire qui échappent aux probabilités inscrites dans le modèle.
+L’inadéquation des critères d’évaluation
+La notion de différend permet d’éclairer une autre dimension problématique du débat sur l’intelligence artificielle. Un différend survient lorsqu’un conflit entre deux parties ne peut être équitablement tranché parce que manque une règle de jugement applicable aux deux argumentations. Le préjudice subi par l’une des parties ne peut être exprimé dans l’idiome de l’autre.
+Dans le contexte de l’intelligence artificielle, un différend fondamental oppose souvent les discours technique et critique. Le discours technique évalue les modèles d’intelligence artificielle selon des critères d’efficacité, de précision, de performance (taux d’erreur, rapidité de traitement, etc.). Le discours critique, quant à lui, mobilise des critères éthiques, politiques, esthétiques (respect de la vie privée, transparence, diversité des représentations, etc.). Ces deux discours ne s’opposent pas simplement par leurs conclusions, mais par leurs critères mêmes d’évaluation, par les “jeux de langage” qu’ils mobilisent. De sorte, qu’on est toujours renvoyé à l’un ou l’autre position.
+Ce différend est particulièrement manifeste dans les débats sur les biais des modèles d’intelligence artificielle. Le discours technique peut reconnaître l’existence de ces biais et proposer des solutions techniques pour les réduire (diversification des données d’entraînement, ajustement des algorithmes, etc.). Mais ces solutions restent inscrites dans une logique d’optimisation qui ne questionne pas fondamentalement les présupposés du système. Le discours critique, quant à lui, peut dénoncer ces biais comme le symptôme d’injustices structurelles qui ne sauraient être résolues par de simples ajustements techniques. Ces deux discours parlent en quelque sorte des langues différentes, mobilisent des critères incommensurables.
+Lyotard nous invite à reconnaître l’irréductibilité de ce différend plutôt qu’à tenter de le résoudre par l’imposition d’un métadiscours qui prétendrait transcender les jeux de langage particuliers. Il s’agit de témoigner du différend, de le maintenir ouvert, plutôt que de chercher à le clôturer prématurément par un jugement définitif.
+On suggère ici une approche de l’intelligence artificielle qui ne chercherait pas à trancher de façon univoque entre acceptation et rejet, mais qui s’efforcerait de maintenir ouverte la pluralité des jeux de langage, la diversité des critères d’évaluation. Il ne s’agit pas de suspendre tout jugement, mais de reconnaître que ces jugements s’inscrivent toujours dans des jeux de langage particuliers, qu’ils mobilisent des critères qui ne sont pas universellement valides.
+En ce sens, l’expérimentation artistique avec les intelligences artificielles peut être comprise comme une pratique qui n’est subordonnée ni à la logique technique de l’optimisation ni à la logique critique de la dénonciation. Elle constitue plutôt un jeu de langage spécifique, avec ses propres critères d’évaluation, qui ne sont réductibles ni à l’efficacité technique ni à la pertinence critique.
+L’attention technologique
+Si la critique écologique de l’intelligence artificielle se concentre généralement sur son impact environnemental direct (consommation énergétique, extraction de matières premières, etc.), une perspective plus large devrait également prendre en compte son impact sur l’écologie de l’attention humaine. Comme nous l’avons dit, la succession rapide des innovations technologiques, la prolifération des contenus générés automatiquement, l’automatisation croissante des processus créatifs : tous ces phénomènes contribuent à une transformation profonde de nos régimes attentionnels.
+Bernard Stiegler a largement analysé les effets de la “misère symbolique” induite par les industries culturelles contemporaines, qui captent et formatent l’attention sans permettre une véritable individuation psychique et collective. Les technologies d’intelligence artificielle peuvent accentuer cette tendance en produisant des contenus toujours plus nombreux, toujours plus calibrés pour capter l’attention, sans nécessairement favoriser une attention profonde, une appropriation singulière.
+Cependant, ces mêmes technologies peuvent aussi être mobilisées dans une perspective différente, qui ne viserait pas la captation maximale de l’attention mais sa qualification, son intensification. L’expérimentation artistique avec les intelligences artificielles peut contribuer à une telle écologie de l’attention en proposant des expériences qui ne se conforment pas aux standards de lisibilité immédiate, de satisfaction instantanée, mais qui requièrent un engagement patient, une attention soutenue, un désir étrange d’approcher ce qu’on ne comprend pas.
+Les erreurs, les hallucinations, les imperfections des modèles d’intelligence artificielle, loin d’être des défauts à corriger, peuvent constituer des ouvertures vers des modes d’attention alternatifs. Un texte généré par GPT-2, avec ses incohérences occasionnelles, ses bifurcations inattendues, peut solliciter une lecture plus active, plus interprétative qu’un texte parfaitement aligné sur nos attentes. Une image générée par un modèle plus ancien, avec ses artefacts visuels, ses imperfections techniques, peut inviter à un regard plus attentif aux détails, aux textures, aux accidents de la représentation.
+En ce sens, l’expérimentation artistique avec les intelligences artificielles ne se contente pas de consommer moins de ressources environnementales en utilisant des modèles déjà entraînés plutôt qu’en en créant constamment de nouveaux ; elle contribue également à une écologie de l’attention en proposant des expériences qui résistent à la logique de la consommation rapide, de l’obsolescence programmée, de la nouveauté perpétuelle.
+L’expérimentation
+L’appel à une temporalité différente dans notre relation aux technologies d’intelligence artificielle, ce que nous avons nommé le temps profond de l’expérimentation, n’est pas une simple proposition théorique : il constitue une orientation éthique et politique concrète. Face à l’accélération constante de l’innovation technique, face à la succession vertigineuse des modèles toujours plus puissants, toujours plus gourmands en ressources, il propose une pratique de la décélération, de l’exploration patiente, de l’appropriation singulière, une multiplication des temporalités.
+Cette éthique de l’expérimentation ne se confond pas avec une simple résistance passive au développement technologique, ni avec une adaptation résignée à ses impératifs. Elle constitue plutôt une forme d’engagement actif avec les technologies existantes, une manière de les habiter, de les explorer, de les détourner qui échappe aussi bien à la fascination technophile qu’à la méfiance technophobe. Elle est beaucoup plus insupportable aux vectofascistes qui, je crois, ne seront jamais gênés par les positions de retrait.
+D’un point de vue environnemental, cette éthique de l’expérimentation peut contribuer à réduire significativement l’impact écologique de l’intelligence artificielle. En privilégiant l’exploration approfondie des modèles existants plutôt que la création constante de nouveaux modèles, en valorisant les possibilités d’utilisation locale plutôt que le recours systématique à des infrastructures centralisées énergivores, elle propose une forme de sobriété qui est aussi un renoncement à une certaine temporalité de la volonté technicienne.
+D’un point de vue politique, cette éthique de l’expérimentation résiste à la concentration du pouvoir technologique entre les mains de quelques grandes entreprises. En valorisant l’appropriation locale, singulière, des technologies existantes, en encourageant leur détournement, leur adaptation à des contextes spécifiques, elle contribue à une forme de démocratisation qui ne se réduit pas à l’accès universel aux mêmes services standardisés.
+D’un point de vue esthétique enfin, cette éthique de l’expérimentation ouvre des possibilités qui échappent aux logiques dominantes de l’innovation et de la performance. En explorant les imperfections, les limites, les accidents des modèles d’intelligence artificielle, elle permet l’émergence de formes esthétiques inattendues, de modalités d’expression qui ne se conforment pas aux standards de lisibilité immédiate ou d’efficacité communicationnelle.
+Le temps profond de l’expérimentation n’est donc pas une simple alternative théorique à la temporalité accélérée de l’innovation technique : c’est une pratique concrète, un engagement quotidien avec les technologies qui nous entourent. Il ne s’agit pas de rêver à un autre monde possible, mais d’habiter différemment celui dans lequel nous vivons déjà, d’explorer les virtualités inscrites dans le présent plutôt que de courir après un futur toujours fuyant. L’expérimentation est la temporalité de l’infans, celui qui est sans langage (sans critique).
+En ce sens, l’art n’est pas anecdotique lorsqu’il s’agit d’intelligence artificielle : il constitue un mode d’engagement privilégié avec ces technologies, une manière de les explorer qui échappe aux logiques instrumentales dominantes. Non pas parce qu’il révélerait une essence cachée de ces technologies ou qu’il en proposerait une critique externe, mais parce qu’il les habite d’une manière singulière, parce qu’il en explore les possibilités selon des trajectoires non prédéterminées, parce qu’il accepte de s’y perdre, d’y consumer sa vie plutôt que de consumer la Terre.
+déconstruction
+différend
+pharmakon
+expérimentation
+espaces latents
+boîte noire
+grammatisation
+temps profond
+écologie attentionnelle
+singularisation
+
+---------
+
